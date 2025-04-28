@@ -2,7 +2,7 @@
 
 ## **Enlace GitHubPages**
 
-[https://ecored-atlantico.github.io/ECORED-BASE-REPO/](https://ecored-atlantico.github.io/ECORED-BASE-REPO/)
+[(https://ecored-atlantico.github.io/21730024_CF02_APLICACION_DE_LA_CALIDAD_DEL_SOFTWARE_EN_EL_PROCESO_DE_DESARROLLO/)](https://ecored-atlantico.github.io/21730024_CF02_APLICACION_DE_LA_CALIDAD_DEL_SOFTWARE_EN_EL_PROCESO_DE_DESARROLLO/)
 
 #
 
