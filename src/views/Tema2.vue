@@ -26,7 +26,7 @@
         p.mb-0 La norma ISO/IEC 25010 define un modelo de calidad que identifica un conjunto de características y subcaracterísticas esenciales para evaluar productos de software. Entre ellas se encuentran la funcionalidad, fiabilidad, usabilidad, eficiencia, mantenibilidad y portabilidad. Cada característica se desglosa en subatributos que permiten una valoración específica; por ejemplo, la usabilidad abarca la facilidad de aprendizaje, operación y atracción, mientras que la eficiencia se relaciona con el comportamiento temporal y el uso adecuado de los recursos. 
 
     separador
-    
+
     .titulo-sexto.color-acento-contenido
       h5 Figura 1. 
       I(style="font-weight: normal;") Características y subcaracterísticas del modelo ISO/IEC 25010

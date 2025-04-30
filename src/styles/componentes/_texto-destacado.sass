@@ -86,7 +86,7 @@
     background-color: $color-acento-contenido
   &.color-acento-botones
     background-color: $color-acento-botones
-
+  
 .bloque-texto-d
   border-top: 1px solid $color-acento-contenido
   position: relative
@@ -164,6 +164,24 @@
     bottom: 50px
   &__comillas
     position: initial
+    .quote__left
+      position: absolute
+      width: 5em
+      z-index: 2
+      margin-right: 15px
+      top: 0
+      left: 40px
+      transform: translate(-50%,-50%)        
+    .quote__right
+      position: absolute
+      width: 5em
+      z-index: 2
+      margin-left: 15px
+      vertical-align: text-top
+      top: calc(100% - 50px)
+      right: 10px
+      margin: 0
+      transform: translate( 0%,-50%)
 
     i
       position: absolute

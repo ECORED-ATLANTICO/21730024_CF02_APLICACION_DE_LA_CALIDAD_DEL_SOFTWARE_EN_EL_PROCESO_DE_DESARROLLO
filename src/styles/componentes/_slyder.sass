@@ -84,22 +84,31 @@
           color: $white !important
           .indicador__container
             transform: rotate(90deg)
-            background-color: $color-acento-botones !important
-            color: $white !important
 
         &--atrs
           transform: rotate(90deg)
           left: 15px
-          background-color: $color-acento-botones !important
-          color: $white !important
 
       &__bullets 
-        color: $color-acento-botones !important
         position: relative
 
     .hide
       opacity: 0
       pointer-events: none
+
+.slyder-a__btn--sigt, .slyder-a__btn--atrs
+  background-color: $color-acento-botones !important
+  border-color: $color-acento-botones !important
+  color: $white !important
+.slyder-a__bullets
+    .slyder-a__bullets__item
+      background-color: $color-adicional-2
+      border-color: $color-adicional-2
+      &--active
+        background-color: $color-adicional-2
+        border-color: $color-adicional-2
+.acordion__accion__btn--a
+  background-color: $white
 
 .slyder-b
   &__img
