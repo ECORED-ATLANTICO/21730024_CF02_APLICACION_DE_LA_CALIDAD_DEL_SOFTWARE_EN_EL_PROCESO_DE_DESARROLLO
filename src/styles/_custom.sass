@@ -186,25 +186,112 @@ figcaption
   background-repeat: no-repeat
   background-position: center
   background-size: cover
-  border-top-left-radius: 20px
-  border-bottom-right-radius: 20px
+  border-radius: 10px
   padding: 30px
 .acordion__activo
   background-color: $color-secundario-20 !important
-  
+
+.img__icon
+  max-width: 100px
+  min-width: 63px
+  height: auto
+.margin-left-45
+  margin-left:45px 
+
 // Fondos de tarjetas
 .bg_img 
   &_1
+    background-image: url('../assets/curso/temas/tema1/img_8.png') !important
+    background-size: contain
+    background-position-y: 42.5rem
+    background-repeat: no-repeat
+  &_2
+    background-image: url('../assets/curso/temas/tema2/img_6.png') !important
+    background-size: contain
+    background-position-y: 55.5rem
+    background-repeat: no-repeat
+  &_3
+    background-image: url('../assets/curso/temas/tema4/img_5.png') !important
+    background-size: contain
+    background-position-y: 29.8rem
+    background-repeat: no-repeat
+  &_4
+    background-image: url('../assets/curso/temas/tema5/img_16.png') !important
+    background-size: contain
+    background-position-y: 45.5rem
+    background-repeat: no-repeat
+  &_5
+    background-image: url('../assets/curso/temas/tema6/img_10.png') !important
+    background-size: contain
+    background-position-y: 22.7rem
+    background-repeat: no-repeat
+.bg-acento-contenido-5
+  background-color: $color-acento-contenido-5
+  padding: 10px 10px 10px 60px
+  margin: 0 0 0 -50px
+  border-radius: 0 30px 30px 11px
+
+.crd--Horizontal
+  position: relative
+  padding: 0.7rem 2rem 0.7rem 0rem
+  min-width: 150px
+  & > *
     position: relative
-    p, figure, slyder-d, .tarjeta
-      position: relative
+  h5
+    color: $color-sistema-texto
+  p
+    margin-bottom: 0
+  &::before
+    position: absolute
+    content: ''
+    top: 0
+    right: 1vw
+    width: calc(100% - 3rem)
+    border-radius: 0 30px 30px 0
+    height: 100%
+  .col-auto
+    position: relative
+    width: clamp(30px, 8vw, 80px)
+    height: auto
+  .col-auto figure img
+    position: absolute
+    left: 3vw
+    width: 100%
+    max-width: 70px
+    transform: translateY(-50%)
+  @media (max-width: 2560px)
+    .col-auto figure img
+      left: 1rem
+  @media (max-width: 1440px)
+    .col-auto figure img
+      left: 0.5rem
+  @media (max-width: 1024px)
     &::before
-      content: ''
-      position: absolute
-      margin: 0
-      top: -110px
-      left: -48px
-      width: calc(100% + 96px)
-      height: 100%
-      background-image: url('../assets/curso/temas/tema6/img_10.png') !important
-      background-repeat: no-repeat
+      right: 3vw
+    .col-auto
+      width: 70px
+    .col-auto figure img
+      left: 0.2rem
+  @media (max-width: 768px)
+    &::before
+      right: 5vw
+    .col-auto figure img
+      left: 0.2rem
+  @media (max-width: 425px)
+    &::before
+      right: 7vw
+    .col-auto figure img
+      left: 0.3rem
+
+.crd
+  &__acento-contenido-5
+    &::before
+      background-color: $color-acento-contenido-5 !important
+  &__secundario-5
+    &::before
+      background-color: $color-secundario-5 !important
+  &__sistema-h
+    &::before
+      background-color: $color-sistema-h !important
+
+

@@ -1,7 +1,7 @@
 <template lang="pug">
 .curso-main-container.pb-3
   BannerInterno
-  .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
+  .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5.bg_img_2
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 2
@@ -19,10 +19,10 @@
     .mb-3
     
     .row.justify-content-center.align-items-center.mb-0
-      .col-lg-3.mb-lm-3.mb-0
+      .col-7.col-lg-3.mb-lg-0.mb-3
         figure.mb-0
           img.mb-0(src="@/assets/curso/temas/tema2/img_2.png", class="img-fluid")
-      .col-lg-9.mb-0
+      .col-12.col-lg-9.mb-0
         p.mb-0 La norma ISO/IEC 25010 define un modelo de calidad que identifica un conjunto de características y subcaracterísticas esenciales para evaluar productos de software. Entre ellas se encuentran la funcionalidad, fiabilidad, usabilidad, eficiencia, mantenibilidad y portabilidad. Cada característica se desglosa en subatributos que permiten una valoración específica; por ejemplo, la usabilidad abarca la facilidad de aprendizaje, operación y atracción, mientras que la eficiencia se relaciona con el comportamiento temporal y el uso adecuado de los recursos. 
 
     separador
@@ -31,7 +31,7 @@
       h5 Figura 1. 
       I(style="font-weight: normal;") Características y subcaracterísticas del modelo ISO/IEC 25010
       
-    figure.mb-0
+    figure
       img.mb-3(src="@/assets/curso/temas/tema2/img_3.png", class="img-fluid")
     figcaption 
       I(style="font-weight: normal;") Fuente.  
@@ -44,10 +44,10 @@
     .mb-3
     
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-1.mb-lm-3.mb-3
+      .col-2.col-md-2.col-lg-1.mb-lg-0.mb-3
         figure
           img.mb-3(src="@/assets/curso/temas/tema2/img_4.svg", class="img-fluid")
-      .col-lg-11.mb-3
+      .col-12.col-md-10.col-lg-11.mb-3
         p.mb-3 La norma ISO/IEC 25012 complementa el modelo anterior al centrarse en la calidad de los datos, tanto en términos inherentes (exactitud, integridad, consistencia) como dependientes del sistema (accesibilidad, seguridad). Este modelo resulta fundamental para aquellos contextos en los que la información es un activo crítico y se requiere garantizar que los datos sean confiables y estén alineados con las necesidades del negocio. 
       .col-lg-8.mb-0
         .titulo-sexto.color-acento-contenido

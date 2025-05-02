@@ -1,7 +1,7 @@
 <template lang="pug">
 .curso-main-container.pb-3
   BannerInterno
-  .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
+  .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5.bg_img_1
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 1
@@ -19,9 +19,9 @@
     .mb-3
     
     .row.justify-content-center.align-items-center.mb-0
-      .col-lg-9.mb-lg-3.mb-0
+      .col-12.col-lg-9.mb-lg-3.order-2.order-lg-1.mb-0
         p.mb-0 El uso de la norma ISO/IEC 25000 <em>SQuaRE</em> ofrece ventajas significativas, entre las que se destaca la estandarización de procesos y métodos en la evaluación de la calidad del software. Esta norma facilita la formulación de requisitos de calidad de manera sistemática, lo que permite que los desarrolladores cuenten con guías claras para definir y medir atributos críticos del producto. Asimismo, al integrar y ajustar las normas existentes, <em>SQuaRE</em> posibilita una evaluación integral que abarca tanto la calidad interna (estructura y eficiencia del código), como la calidad externa (rendimiento y experiencia de uso), contribuyendo a la mejora continua del proceso de desarrollo (Cordero, 2017).
-      .col-lg-3.mb-0
+      .col-6.col-lg-3.order-1.order-lg-2.mb-lg-0.mb-3
         figure.mb-0
           img.mb-0(src="@/assets/curso/temas/tema1/img_2.png", class="img-fluid")
 
@@ -30,14 +30,14 @@
     #t_1_2.titulo-segundo.color-acento-contenido
       .h2(data-aos="fade-right") 1.2	Divisiones: 2501n (modelo), 2502n (medidas), 2503n (requisitos), 2504n (evaluación)
     .mb-3
-    p.mb-3 El marco SQuaRE se organiza en diversas divisiones, cada una con un enfoque específico:
     .row.justify-content-center.align-items-center.mb-0
-      .col-lg-5.mb-3
+      p.mb-lg-3.order-2.order-lg-1.mb-3 El marco SQuaRE se organiza en diversas divisiones, cada una con un enfoque específico:
+      .col-5.col-lg-5.order-1.order-lg-2.mb-lg-0.mb-3
         figure
-          img.mb-5(src="@/assets/curso/temas/tema1/img_3.png", class="img-fluid")
-      .col-lg-7.mb-3
+          img(src="@/assets/curso/temas/tema1/img_3.png", class="img-fluid")
+      .col-12.col-lg-7.mb-3.order-3.order-lg-3
         .custom-slider
-          SlyderF(columnas="col-6")
+          SlyderF(columnas="col-10 col-lg-6")
             .tarjeta.tarjeta.p-4.rounded-5.custom-slider__tarjeta.custom-slider__tarjeta--1
               .custom-slider__title.color-secundario-20.mb-5 2501n – Modelo de calidad: 
               .custom-slider__content.mb-0 Define las características y subcaracterísticas que debe poseer el producto de software para cumplir con estándares de calidad, estableciendo parámetros que abarcan desde la funcionalidad hasta la usabilidad y seguridad.

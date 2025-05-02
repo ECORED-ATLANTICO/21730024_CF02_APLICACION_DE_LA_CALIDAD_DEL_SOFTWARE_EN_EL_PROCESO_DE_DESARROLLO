@@ -17,7 +17,7 @@
         figure
           img.mb-5(src="@/assets/curso/sintesis/img_2.png", class="img-fluid")
     .row.justify-content-center
-      .col-lg-10.mb-5.bgs.p-4.brad
+      .col-lg-12.mb-5.bgs.p-4.brad
         figure
           img(src="@/assets/curso/sintesis/sintesis.png", alt="El componente formativo “Medición, evaluación y aplicación práctica de la calidad de software” ofrece una aproximación integral a la gestión y mejora de la calidad en el desarrollo de software. Este módulo analiza detalladamente la implementación de la norma ISO/IEC 25000 SQuaRE, resaltando sus ventajas en cuanto a estandarización y sistematización de los requisitos, y se desglosan sus divisiones clave: modelo de calidad (2501n), medidas (2502n), requisitos (2503n) y evaluación (2504n). Asimismo, se estudian los modelos de calidad ISO/IEC 25010 y 25012, que definen las características esenciales tanto de sistemas y software como de la calidad de datos. La propuesta profundiza en la aplicación de métricas a través de estándares específicos (ISO/IEC 25020, 25021, 25022, 25023 y 25024), así como en la definición de requisitos y en los procesos de evaluación (ISO/IEC 25030 y 25040-25044). Además, se destacan las vistas internas, externas y en uso, y la importancia de la documentación para la trazabilidad y mejora continua. La aplicación práctica se ejemplifica mediante estudios de caso, permitiendo evidenciar la efectividad de la integración de modelos como CMMI, PSP/TSP y SQuaRE para alcanzar una calidad total.")
       .col-auto
