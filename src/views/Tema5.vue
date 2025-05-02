@@ -11,7 +11,7 @@
         .bloque-texto-g.color-terciario.p-3.p-sm-4.p-md-5
           .bloque-texto-f__comillas
             img(src='@/assets/curso/temas/tema5/img_1.svg',).quote__left
-            img(src='@/assets/curso/temas/tema5/img_2.svg',).quote__right
+            img(src='@/assets/curso/temas/tema5/img_2.svg',).quote__right.d-none.d-sm-block
           .bloque-texto-g__img(
             :style="{'background-image': `url(${require('@/assets/curso/temas/tema5/img_3.png')})`}"
           )

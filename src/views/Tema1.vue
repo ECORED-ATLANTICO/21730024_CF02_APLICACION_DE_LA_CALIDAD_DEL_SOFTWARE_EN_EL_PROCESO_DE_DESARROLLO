@@ -31,13 +31,13 @@
       .h2(data-aos="fade-right") 1.2	Divisiones: 2501n (modelo), 2502n (medidas), 2503n (requisitos), 2504n (evaluación)
     .mb-3
     .row.justify-content-center.align-items-center.mb-0
-      p.mb-lg-3.order-2.order-lg-1.mb-3 El marco SQuaRE se organiza en diversas divisiones, cada una con un enfoque específico:
+      p.mb-lg-3.order-2.order-lg-1.mb-3 El marco <em>SQuaRE</em> se organiza en diversas divisiones, cada una con un enfoque específico:
       .col-5.col-lg-5.order-1.order-lg-2.mb-lg-0.mb-3
         figure
           img(src="@/assets/curso/temas/tema1/img_3.png", class="img-fluid")
       .col-12.col-lg-7.mb-3.order-3.order-lg-3
         .custom-slider
-          SlyderF(columnas="col-10 col-lg-6")
+          SlyderF(columnas="col-12 col-sm-12 col-md-10 col-lg-6" slidesSM="1" slidesMD="2" slidesLG="2")
             .tarjeta.tarjeta.p-4.rounded-5.custom-slider__tarjeta.custom-slider__tarjeta--1
               .custom-slider__title.color-secundario-20.mb-5 2501n – Modelo de calidad: 
               .custom-slider__content.mb-0 Define las características y subcaracterísticas que debe poseer el producto de software para cumplir con estándares de calidad, estableciendo parámetros que abarcan desde la funcionalidad hasta la usabilidad y seguridad.
