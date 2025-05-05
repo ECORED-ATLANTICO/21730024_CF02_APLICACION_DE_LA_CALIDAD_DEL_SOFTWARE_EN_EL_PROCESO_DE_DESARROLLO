@@ -356,9 +356,20 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Sandra Aydeé López Contador',
+          cargo: 'Experta temática',
+          centro: 
+            'Centro de Gestión de Mercados Logística y Tecnologías de la Información - Regional Distrito Capital ',
+        },
+        {
+          nombre: 'Heydy Cristina Gonzalez Garcia',
+          cargo: 'Evaluadora instruccional',
+          centro: 'Centro de Comercio y Servicios -Regional Atlántico',
+        },
+        {
+          nombre: 'Jair Coll',
+          cargo: 'Evaluadora instruccional',
+          centro: 'Centro de Comercio y Servicios -Regional Atlántico',
         },
       ],
     },
@@ -366,19 +377,19 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Diseñador de contenidos',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Andrés Felipe Herrera',
+          cargo: 'Diseñador web',
+          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Alexander Donado Molinares',
           cargo: 'Desarrollador <i>full stack</i>',
-          centro: 'Centro XYZ - Regional XYZ',
+          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Nelson Ivan Vera Briceño',
           cargo: 'Animador y productor audiovisual',
-          centro: 'Centro XYZ - Regional XYZ',
+          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
         },
       ],
     },
@@ -386,13 +397,23 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Validador y vinculador de recursos educativos digitales',
+          nombre: 'Maria Fernanda Morales Angulo',
+          cargo: 'Evaluador de contenidos inclusivos y accesibles',
+          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
+        },
+        {
+          nombre: 'Luz Karime Amaya Cabra',
+          cargo: 'Evaluador de contenidos inclusivos y accesibles',
+          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
+        },
+        {
+          nombre: 'Jairo Luis Valencia Ebratt',
+          cargo: 'Validador y vinculador de recursos digitales',
           centro: 'Centro XYZ - Regional XYZ',
         },
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Evaluador de contenidos inclusivos y accesibles',
+          nombre: 'Jonathan Adie Villafañe',
+          cargo: 'Validador y vinculador de recursos digitales',
           centro: 'Centro XYZ - Regional XYZ',
         },
       ],
