@@ -358,7 +358,7 @@ export default {
         {
           nombre: 'Sandra Aydeé López Contador',
           cargo: 'Experta temática',
-          centro: 
+          centro:
             'Centro de Gestión de Mercados Logística y Tecnologías de la Información - Regional Distrito Capital ',
         },
         {
