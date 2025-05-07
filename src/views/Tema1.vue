@@ -35,20 +35,20 @@
       .col-5.col-lg-5.order-1.order-lg-2.mb-lg-0.mb-3
         figure
           img(src="@/assets/curso/temas/tema1/img_3.png", class="img-fluid")
-      .col-12.col-lg-7.mb-3.order-3.order-lg-3
-        .custom-slider
-          SlyderF(columnas="col-12 col-sm-12 col-md-10 col-lg-6" slidesSM="1" slidesMD="2" slidesLG="2")
-            .tarjeta.tarjeta.p-4.rounded-5.custom-slider__tarjeta.custom-slider__tarjeta--1
-              .custom-slider__title.color-secundario-20.mb-5 2501n – Modelo de calidad: 
+      .col-12.col-lg-7.mb-0.order-3.order-lg-3.p-0
+        .custom-slider.p-0
+          SlyderF(columnas="col-12 col-sm-10 col-md-6 col-lg-6 p-0")
+            .tarjeta.tarjeta.rounded-5.custom-slider__tarjeta.custom-slider__tarjeta--1
+              .custom-slider__title.color-secundario-20.mb-3.mb-md-3.mb-lg-5 2501n – Modelo de calidad: 
               .custom-slider__content.mb-0 Define las características y subcaracterísticas que debe poseer el producto de software para cumplir con estándares de calidad, estableciendo parámetros que abarcan desde la funcionalidad hasta la usabilidad y seguridad.
             .tarjeta.tarjeta.p-4.rounded-5.custom-slider__tarjeta.custom-slider__tarjeta--2
-              .custom-slider__title.color-secundario-20.mb-5  2502n – Medidas de calidad: 
+              .custom-slider__title.color-secundario-20.mb-3.mb-lg-5  2502n – Medidas de calidad: 
               .custom-slider__content.mb-0 Proporciona un marco para la definición y aplicación de métricas que permiten cuantificar la calidad en diferentes contextos, incluyendo medidas internas, externas y en uso.
             .tarjeta.tarjeta.p-4.rounded-5.custom-slider__tarjeta.custom-slider__tarjeta--3
-              .custom-slider__title.color-secundario-20.mb-5 2503n – Requisitos de calidad: 
+              .custom-slider__title.color-secundario-20.mb-3.mb-lg-5 2503n – Requisitos de calidad: 
               .custom-slider__content.mb-0 Especifica los requisitos que debe satisfacer el producto, sirviendo como base para la planificación y desarrollo, y garantizando que se cumplan las expectativas del cliente.
             .tarjeta.tarjeta.p-4.rounded-5.custom-slider__tarjeta.custom-slider__tarjeta--4
-              .custom-slider__title.color-secundario-20.mb-5 2504n – Evaluación de calidad:
+              .custom-slider__title.color-secundario-20.mb-3.mb-lg-5 2504n – Evaluación de calidad:
               .custom-slider__content.mb-0 Establece los procedimientos y criterios para la valoración sistemática del software, orientados a la auditoría y mejora continua. Cada división se articula de manera que el conjunto normativo ofrezca una visión holística de la calidad del producto, facilitando su aplicación en diferentes escenarios de desarrollo.
 </template>
 

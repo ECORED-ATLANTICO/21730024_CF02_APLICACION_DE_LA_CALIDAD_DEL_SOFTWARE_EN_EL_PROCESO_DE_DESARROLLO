@@ -78,6 +78,7 @@ figcaption
       padding: 10px 15px
       margin-bottom: 10px
       color: $color-sistema-texto
+  
   &__content
     display: inline-block
     padding: 5px 5px
@@ -114,15 +115,15 @@ figcaption
     .slyder-f
       align-items: center
       justify-content: center
-      gap: 15px
+      gap: 0.7rem
 
   .slyder-f
     align-items: center
     justify-content: center
-    gap: 15px
+    gap: 0
 
   .slyder-f__main
-    width: 93%
+    width: 100%
     height: 100%
 
   .slyder-f__btn
@@ -139,17 +140,17 @@ figcaption
     .fa-chevron-left, .fa-chevron-right
       font-size: 1.5rem
     &.ps-3
-      margin-left:7px
+      margin-left: -0.3rem
     &.pe-3
-      margin-right: 7px
+      margin-right: -0.3rem
 
 .custom-slider
   &__tarjeta
-    min-height: 620px
-    min-width: 300px
+    min-height: 38rem
+    min-width: 17.13rem
     border-radius: 20px
-    padding: 300px 15px 30px 15px !important
-    margin: 20px 10px 20px
+    padding: 19rem 0.7rem 0.7rem 0.7rem !important
+    margin: 0.7rem 0.5rem 0.7rem 0.5rem
     position: relative
     display: flex
     flex-direction: column
@@ -179,6 +180,12 @@ figcaption
       top: 50px
       left: 50%
       transform: translateX(-50%)
+  @media (max-width: 1024px)
+    &__tarjeta
+      min-height: 25rem
+      min-width: 14.5rem
+      padding: 19rem 0.7rem 0.7rem 0.7rem !important
+      margin: 0.7rem 0.5rem 0.7rem 0.5rem
 
 
 .tarjeta_tema-7
