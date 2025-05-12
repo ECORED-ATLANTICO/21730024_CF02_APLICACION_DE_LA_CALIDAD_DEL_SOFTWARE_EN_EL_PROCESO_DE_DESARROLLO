@@ -11,25 +11,74 @@
 @media (min-width: 1023px)
   .banner-principal .tarjeta
     background-image: url('../assets/curso/portada/fondo-banner-contenido.png') !important
+@keyframes giro-corregido
+  from
+    transform: rotate(0deg) rotate(15deg)
+  to
+    transform: rotate(360deg) rotate(15deg)
+@keyframes click-automatico
+  0%, 100%
+    transform: translateY(0) scale(1)
+  30%, 70%
+    transform: translateY(8px) scale(0.9)
+  50%
+    transform: translateY(10px) scale(0.85)
+@keyframes click-sombra
+  0%
+    transform: translateX(-50%) scale(0)
+    opacity: 0
+  20%
+    opacity: 1
+  90%
+    transform: translateX(-50%) scale(3)
+    opacity: 0
+  100%
+    opacity: 0
+@keyframes bracket-color
+  0%, 100%
+    filter: hue-rotate(0deg)
+  50%
+    filter: hue-rotate(90deg)
 .banner-principal-decorativo
   &-1
     position: absolute
     top: 55%
     left: 15%
     width: 60px
+    animation: giro-corregido 8s linear infinite
+    transform-origin: 57% 46% // Ajuste para inclinación 15° derecha
+    transform-box: fill-box
+    filter: drop-shadow(2px 3px 3px rgba(0,0,0,0.15))
+    
   &-2
     position: absolute
     top: 64%
     left: 70%
     width: 100px
+    animation: click-automatico 2s ease-in-out infinite
+    transform-origin: center 30%
+    cursor: default
+    &:after
+      content: ''
+      position: absolute
+      bottom: 64%
+      left: 65%
+      width: 50px
+      height: 50px
+      background: rgba(255, 255, 255, 0.5)
+      border-radius: 50%
+      animation: click-sombra 2s ease-out 0.45s infinite
+      transform: translateX(-50%)
   &-3
     position: absolute
     top: 36.5%
     left: 63.5%
     width: 100px
+    animation: bracket-color 6s linear infinite
+
 .banner-principal__row 
   .banner-principal__img
-    width: 500px
+    width: 405px
     padding-bottom: 0 !important
     padding-top: 0 !important
 @media (min-width: 1025px)

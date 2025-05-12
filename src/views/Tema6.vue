@@ -54,42 +54,50 @@
           SlyderF().p-3.rounded-3
             .tarjeta.p-3.rounded-3.d-flex
               .row.justify-content-center.align-items-center
-                .col-3.d-none.d-md-block
+                .col-6.col-md-3.mb-lg-0.mb-3
                   figure
                     img.width-110(src='@/assets/curso/temas/tema6/img_5.png', alt='01')(data-aos="fade-up")
-                .col-md-9
+                .col-12.col-md-9
                   h3.factores-slider__number.color-acento-contenido Funcionalidad:
                   p.mb-0 se midió el grado de cumplimiento de las funciones especificadas en los requerimientos.
             .tarjeta.p-3.rounded-3.d-flex
               .row.justify-content-center.align-items-center
-                .col-3.d-none.d-md-block
+                .col-6.col-md-3.mb-lg-0.mb-3
                   figure
                     img.width-110(src='@/assets/curso/temas/tema6/img_6.png', alt='02')(data-aos="fade-up")
-                .col-md-9
+                .col-12.col-md-9
                   h3.factores-slider__number.color-acento-contenido Fiabilidad:
                   p.mb-0 se evaluó la capacidad del software para operar sin interrupciones ni errores.
             .tarjeta.p-3.rounded-3.d-flex  
               .row.justify-content-center.align-items-center
-                .col-3.d-none.d-md-block
+                .col-6.col-md-3.mb-lg-0.mb-3
                   figure
                     img.width-110(src='@/assets/curso/temas/tema6/img_7.png', alt='Ilustración decorativa')(data-aos="fade-up")
-                .col-md-9
+                .col-12.col-md-9
                   h3.factores-slider__number.color-acento-contenido Usabilidad:
                   p.mb-0 se analizaron indicadores de facilidad de uso y satisfacción del usuario.
             .tarjeta.p-3.rounded-3.d-flex  
               .row.justify-content-center.align-items-center
-                .col-3.d-none.d-md-block
+                .col-6.col-md-3.mb-lg-0.mb-3
                   figure
                     img.width-110(src='@/assets/curso/temas/tema6/img_8.png', alt='Ilustración decorativa')(data-aos="fade-up")
-                .col-md-9
+                .col-12.col-md-9
                   h3.factores-slider__number.color-acento-contenido Eficiencia:
                   p.mb-0 se consideraron métricas de tiempo de respuesta y consumo de recursos. La integración de estos indicadores permitió una valoración integral que facilitó la toma de decisiones basada en datos objetivos (G., 2014).
     .titulo-sexto.color-acento-contenido
       h5 Figura 4.  
       I(style="font-weight: normal;") Análisis de caso práctico
-
-    figure.mb-0
-      img.mb-3(src="@/assets/curso/temas/tema6/img_11.svg", class="img-fluid")
+    
+    .row.justify-content-center.align-items-center.mb-3
+      .col-12.col-md-8.col-lg-4.mb-lg-0.mb-3
+        figure
+          img(src="@/assets/curso/temas/tema6/img_11.svg", class="img-fluid")
+      .col-12.col-md-8.col-lg-4.mb-lg-0.mb-3
+        figure
+          img(src="@/assets/curso/temas/tema6/img_12.svg", class="img-fluid")
+      .col-12.col-md-8.col-lg-4.mb-lg-0.mb-3
+        figure
+          img.mb-3(src="@/assets/curso/temas/tema6/img_13.svg", class="img-fluid")
     figcaption 
       I(style="font-weight: normal;") Fuente.  
       | SENA (2025).

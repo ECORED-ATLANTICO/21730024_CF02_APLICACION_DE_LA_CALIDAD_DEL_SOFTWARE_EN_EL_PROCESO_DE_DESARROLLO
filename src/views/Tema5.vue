@@ -60,15 +60,15 @@
       h5 Figura 3.  
       I(style="font-weight: normal;") Vistas de calidad en <em>SQuaRE</em>
     .row.justify-content-center.align-items-center.mb-3
-      .col-7.col-lg-4.mb-lg-0.mb-3
+      .col-12.col-md-8.col-lg-4.mb-lg-0.mb-3
         figure
-          img(src="@/assets/curso/temas/tema5/img_8.png", class="img-fluid")
-      .col-7.col-lg-4.mb-lg-0.mb-3
+          img(src="@/assets/curso/temas/tema5/img_8.svg", class="img-fluid")
+      .col-12.col-md-8.col-lg-4.mb-lg-0.mb-3
         figure
-          img(src="@/assets/curso/temas/tema5/img_9.png", class="img-fluid")
-      .col-7.col-lg-4.mb-lg-0.mb-3
+          img(src="@/assets/curso/temas/tema5/img_9.svg", class="img-fluid")
+      .col-12.col-md-8.col-lg-4.mb-lg-0.mb-3
         figure
-          img(src="@/assets/curso/temas/tema5/img_10.png", class="img-fluid")
+          img(src="@/assets/curso/temas/tema5/img_10.svg", class="img-fluid")
     figcaption 
       I(style="font-weight: normal;") Fuente.  
       | SENA (2025).

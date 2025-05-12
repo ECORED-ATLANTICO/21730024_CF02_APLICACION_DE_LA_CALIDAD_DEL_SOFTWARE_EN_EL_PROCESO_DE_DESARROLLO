@@ -80,34 +80,6 @@ export default {
         numero: '3',
         titulo: 'Medidas de calidad (ISO/IEC 2502n)',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            numero: '3.1',
-            titulo:
-              'ISO/IEC 25020: modelo de referencia para medición con guía',
-            hash: 't_2_1',
-          },
-          {
-            numero: '3.2',
-            titulo: 'ISO/IEC 25021: medidas primitivas (QME)',
-            hash: 't_3_2',
-          },
-          {
-            numero: '3.3',
-            titulo: 'ISO/IEC 25022: métricas de calidad en uso',
-            hash: 't_3_3',
-          },
-          {
-            numero: '3.4',
-            titulo: 'ISO/IEC 25023: métricas de calidad externa',
-            hash: 't_3_4',
-          },
-          {
-            numero: '3.5',
-            titulo: 'ISO/IEC 25024: métricas de calidad interna',
-            hash: 't_3_5',
-          },
-        ],
       },
       {
         nombreRuta: 'tema4',

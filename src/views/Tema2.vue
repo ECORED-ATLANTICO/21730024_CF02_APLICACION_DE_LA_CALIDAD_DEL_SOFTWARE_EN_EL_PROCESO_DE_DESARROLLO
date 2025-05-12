@@ -18,21 +18,19 @@
       .h2(data-aos="fade-right") 2.1 ISO/IEC 25010: características y subcaracterísticas para sistemas y software
     .mb-3
     
-    .row.justify-content-center.align-items-center.mb-0
+    .row.justify-content-center.align-items-center.mb-5
       .col-7.col-lg-3.mb-lg-0.mb-3
         figure.mb-0
           img.mb-0(src="@/assets/curso/temas/tema2/img_2.png", class="img-fluid")
-      .col-12.col-lg-9.mb-0
+      .col-12.col-lg-9.mb-3
         p.mb-0 La norma ISO/IEC 25010 define un modelo de calidad que identifica un conjunto de características y subcaracterísticas esenciales para evaluar productos de software. Entre ellas se encuentran la funcionalidad, fiabilidad, usabilidad, eficiencia, mantenibilidad y portabilidad. Cada característica se desglosa en subatributos que permiten una valoración específica; por ejemplo, la usabilidad abarca la facilidad de aprendizaje, operación y atracción, mientras que la eficiencia se relaciona con el comportamiento temporal y el uso adecuado de los recursos. 
-
-    separador
 
     .titulo-sexto.color-acento-contenido
       h5 Figura 1. 
       I(style="font-weight: normal;") Características y subcaracterísticas del modelo ISO/IEC 25010
       
     figure
-      img.mb-3(src="@/assets/curso/temas/tema2/img_3.png", class="img-fluid")
+      img.mb-3(src="@/assets/curso/temas/tema2/img_3.svg", class="img-fluid")
     figcaption 
       I(style="font-weight: normal;") Fuente.  
       | SENA (2025).
@@ -44,7 +42,7 @@
     .mb-3
     
     .row.justify-content-center.align-items-center.mb-5
-      .col-2.col-md-2.col-lg-1.mb-lg-0.mb-3
+      .col-2.col-md-2.col-lg-1.d-none.d-lg-block
         figure
           img.mb-3(src="@/assets/curso/temas/tema2/img_4.svg", class="img-fluid")
       .col-12.col-md-10.col-lg-11.mb-3
@@ -55,7 +53,7 @@
           I(style="font-weight: normal;") Características de calidad de producto de datos (ISO/IEC 25012)
 
         figure.mb-0
-          img.mb-3(src="@/assets/curso/temas/tema2/img_5.png", class="img-fluid")
+          img.mb-3(src="@/assets/curso/temas/tema2/img_5.svg", class="img-fluid")
         figcaption 
           I(style="font-weight: normal;") Fuente.  
           | SENA (2025).

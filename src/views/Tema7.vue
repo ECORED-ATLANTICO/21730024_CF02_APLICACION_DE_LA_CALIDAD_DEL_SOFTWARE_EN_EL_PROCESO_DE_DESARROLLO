@@ -22,7 +22,7 @@
     .mb-3
     
     .row.justify-content-center.align-items-center.mb-5
-      .col-4.col-sm-2.col-lg-1.mb-sm-3.mb-0
+      .col-4.col-sm-2.col-lg-1.mb-lg-0.mb-3
         figure.mb-0
           img.mb-0(src="@/assets/curso/temas/tema7/img_2.png", class="img-fluid")
       .col-lg-11.mb-0
@@ -43,7 +43,7 @@
       .col-12.col-lg-10
         .tarjeta_tema-7
           .row.justify-content-center.align-items-center.mb-0
-            .col-3.col-lg-2.mb-lg-0.mb-3
+            .col-4.col-sm-3.col-lg-2.mb-lg-0.mb-3
               figure
                 img.mb-0(src="@/assets/curso/temas/tema7/img_4.png", class="img-fluid")
             .col-lg-10
