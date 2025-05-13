@@ -13,7 +13,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/temas/tema7/img_1.png')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p.mb-0 La mejora continua de la calidad del  <i>software</i> se potencia al integrar distintos modelos y metodologías de evaluación.
+            p.mb-0 La mejora continua de la calidad del  <em>software</em> se potencia al integrar distintos modelos y metodologías de evaluación.
 
     separador
 

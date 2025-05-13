@@ -190,8 +190,12 @@ figcaption
       font-size: 1.5rem
     &.ps-3
       margin-left: -0.3rem
+      @media (max-width: 1024px)
+        margin-left: 0
     &.pe-3
       margin-right: -0.3rem
+      @media (max-width: 1024px)
+        margin-right: -0.3rem
 
 .custom-slider
   &__tarjeta
@@ -232,10 +236,9 @@ figcaption
   @media (max-width: 1024px)
     &__tarjeta
       min-height: 25rem
-      min-width: 14.5rem
-      padding: 19rem 0.7rem 0.7rem 0.7rem !important
-      margin: 0.7rem 0.5rem 0.7rem 0.5rem
-
+      min-width: 12.5rem
+      padding: 18rem 0.7rem 0.7rem 0.7rem !important
+      margin: 0
 
 .tarjeta_tema-7
   background-image: url('../assets/curso/temas/tema7/img_5.png')
@@ -244,6 +247,7 @@ figcaption
   background-size: cover
   border-radius: 10px
   padding: 30px
+
 .acordion__activo
   background-color: $color-secundario-20 !important
 
@@ -251,6 +255,7 @@ figcaption
   max-width: 100px
   min-width: 63px
   height: auto
+
 .margin-left-45
   margin-left:45px 
 

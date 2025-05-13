@@ -8,9 +8,9 @@
       h1 Ejemplo práctico de aplicación
     .bloque-texto-t.justify-content-center.align-items-center.mb-0
       .bloque-texto-t__img.mb-0
-        img(src='@/assets/curso/temas/tema6/img_1.png', alt='Código de programación en pantalla, representación de  <i>software</i>')
+        img(src='@/assets/curso/temas/tema6/img_1.png', alt='Código de programación en pantalla, representación de  <em>software</em>')
       .bloque-texto-t__texto.col-8.mb-0
-        p.mb-0 La aplicación práctica de los estándares ISO/IEC 25000 permite evaluar de forma concreta la calidad del  <i>software</i> en escenarios reales. Se presenta a continuación un ejemplo ilustrativo.
+        p.mb-0 La aplicación práctica de los estándares ISO/IEC 25000 permite evaluar de forma concreta la calidad del  <em>software</em> en escenarios reales. Se presenta a continuación un ejemplo ilustrativo.
 
     separador
 
@@ -23,17 +23,17 @@
         figure
           img(src="@/assets/curso/temas/tema6/img_2.png", class="img-fluid")
       .col-lg-9.mb-0
-        p.mb-0 Se considera el análisis de calidad realizado por el Ministerio de Salud del Perú para la adquisición de un  <i>software</i> de diseño y aplicaciones creativas. En este caso se evaluaron diversos atributos, tales como la funcionalidad, fiabilidad y usabilidad, utilizando un conjunto de métricas basadas en los estándares ISO/IEC 25000. La aplicación de estos criterios permitió identificar fortalezas y áreas de mejora, lo que facilitó la toma de decisiones en la selección del producto.
+        p.mb-0 Se considera el análisis de calidad realizado por el Ministerio de Salud del Perú para la adquisición de un  <em>software</em> de diseño y aplicaciones creativas. En este caso se evaluaron diversos atributos, tales como la funcionalidad, fiabilidad y usabilidad, utilizando un conjunto de métricas basadas en los estándares ISO/IEC 25000. La aplicación de estos criterios permitió identificar fortalezas y áreas de mejora, lo que facilitó la toma de decisiones en la selección del producto.
 
     separador
 
     #t_6_2.titulo-segundo.color-acento-contenido
-      .h2(data-aos="fade-right") 6.2 Comparación de  <i>software</i> de diseño (Adobe vs. Corel)
+      .h2(data-aos="fade-right") 6.2 Comparación de  <em>software</em> de diseño (Adobe vs. Corel)
     .mb-3
 
     .row.justify-content-center.align-items-center.mb-0
       .col-12.col-lg-9.order-2.order-lg-1.mb-0
-        p.mb-0 Mediante la aplicación de las normas y métricas establecidas, se realizó una comparación entre dos soluciones de  <i>software</i> de diseño. El análisis incluyó aspectos como la eficiencia en el procesamiento, la usabilidad y la estabilidad en condiciones de uso intensivo. Los resultados obtenidos sirvieron para determinar cuál de los productos se ajustaba mejor a las necesidades definidas, demostrando la utilidad de un enfoque normativo para la evaluación comparativa.
+        p.mb-0 Mediante la aplicación de las normas y métricas establecidas, se realizó una comparación entre dos soluciones de  <em>software</em> de diseño. El análisis incluyó aspectos como la eficiencia en el procesamiento, la usabilidad y la estabilidad en condiciones de uso intensivo. Los resultados obtenidos sirvieron para determinar cuál de los productos se ajustaba mejor a las necesidades definidas, demostrando la utilidad de un enfoque normativo para la evaluación comparativa.
       .col-6.col-lg-3.order-1.order-lg-2.mb-lg-0.mb-3
         figure.mb-0
           img.mb-0(src="@/assets/curso/temas/tema6/img_3.png", class="img-fluid")
@@ -67,7 +67,7 @@
                     img.width-110(src='@/assets/curso/temas/tema6/img_6.png', alt='02')(data-aos="fade-up")
                 .col-12.col-md-9
                   h3.factores-slider__number.color-acento-contenido Fiabilidad:
-                  p.mb-0 se evaluó la capacidad del  <i>software</i> para operar sin interrupciones ni errores.
+                  p.mb-0 se evaluó la capacidad del  <em>software</em> para operar sin interrupciones ni errores.
             .tarjeta.p-3.rounded-3.d-flex  
               .row.justify-content-center.align-items-center
                 .col-6.col-md-3.mb-lg-0.mb-3

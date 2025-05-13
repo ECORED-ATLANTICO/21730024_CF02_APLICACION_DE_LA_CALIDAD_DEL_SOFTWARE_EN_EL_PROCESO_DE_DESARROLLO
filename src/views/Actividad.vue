@@ -17,10 +17,10 @@ export default {
   },
   data: () => ({
     cuestionario: {
-      tema: 'Evaluación de normas y métricas de calidad en software',
-      titulo: 'Evaluación de normas y métricas de calidad en software',
+      tema: 'Evaluación de normas y métricas de calidad en <em>software</em>',
+      titulo: 'Evaluación de normas y métricas de calidad en <em>software</em>',
       introduccion:
-        '<b> Objetivo:</b> Evaluar la comprensión de los aprendices sobre la familia de normas ISO/IEC 25000 <em>(SQuaRE)</em>, modelos de calidad (ISO/IEC 25010, 25012), métricas (2502n) y su aplicación práctica.',
+        '<b>Objetivo:</b> Evaluar la comprensión de los aprendices sobre la familia de normas ISO/IEC 25000 <em>(SQuaRE)</em>, modelos de calidad (ISO/IEC 25010, 25012), métricas (2502n) y su aplicación práctica.',
       barajarPreguntas: true,
       titulo_aprobado: '¡BUEN TRABAJO!..',
       titulo_reprobado: 'VUELVA A INTENTARLO..',
@@ -28,7 +28,7 @@ export default {
         {
           id: 1,
           texto:
-            '<em>La norma ISO/IEC 25000 SQuaRE reemplazó completamente a las normas ISO/IEC 9126 e ISO/IEC 14598.</em>',
+            '<em>La norma ISO/IEC 25000 <em>SQuaRE</em> reemplazó completamente a las normas ISO/IEC 9126 e ISO/IEC 14598.</em>',
           imagen: require('@/assets/actividad/img_1.png'),
           barajarRespuestas: true,
           opciones: [
@@ -51,7 +51,7 @@ export default {
         {
           id: 2,
           texto:
-            '<em>ISO/IEC 25010 define características de calidad para sistemas y  <i>software</i>, pero no incluye subcaracterísticas</em>',
+            '<em>ISO/IEC 25010 define características de calidad para sistemas y  <em>software</em>, pero no incluye subcaracterísticas</em>',
           imagen: require('@/assets/actividad/img_2.png'),
           barajarRespuestas: true,
           opciones: [
@@ -143,7 +143,7 @@ export default {
         {
           id: 6,
           texto:
-            '<em>La vista interna en SQuaRE analiza el rendimiento del  <i>software</i> en operación.</em>',
+            '<em>La vista interna en <em>SQuaRE</em> analiza el rendimiento del  <em>software</em> en operación.</em>',
           imagen: require('@/assets/actividad/img_1.png'),
           barajarRespuestas: true,
           opciones: [
@@ -235,7 +235,7 @@ export default {
         {
           id: 10,
           texto:
-            '<em>PSP (Personal Software Process) se utiliza para gestionar equipos grandes en proyectos ágiles.</em>',
+            '<em>PSP (Personal <em>software</em> Process) se utiliza para gestionar equipos grandes en proyectos ágiles.</em>',
           imagen: require('@/assets/actividad/img_5.png'),
           barajarRespuestas: true,
           opciones: [
@@ -281,7 +281,7 @@ export default {
         {
           id: 12,
           texto:
-            '<em>La división 2504n de SQuaRE se enfoca en la gestión de requisitos de calidad.</em>',
+            '<em>La división 2504n de <em>SQuaRE</em> se enfoca en la gestión de requisitos de calidad.</em>',
           imagen: require('@/assets/actividad/img_2.png'),
           barajarRespuestas: true,
           opciones: [
@@ -350,7 +350,7 @@ export default {
         {
           id: 15,
           texto:
-            '<em>La documentación en SQuaRE incluye históricos de progreso pero no simulacros de uso.</em>',
+            '<em>La documentación en <em>SQuaRE</em> incluye históricos de progreso pero no simulacros de uso.</em>',
           imagen: require('@/assets/actividad/img_5.png'),
           barajarRespuestas: true,
           opciones: [
@@ -373,7 +373,7 @@ export default {
         {
           id: 16,
           texto:
-            '<em>ISO/IEC 25022 mide la eficacia del software en tareas específicas del usuario final.</em>',
+            '<em>ISO/IEC 25022 mide la eficacia del <em>software</em> en tareas específicas del usuario final.</em>',
           imagen: require('@/assets/actividad/img_1.png'),
           barajarRespuestas: true,
           opciones: [
@@ -396,7 +396,7 @@ export default {
         {
           id: 17,
           texto:
-            '<em>La integración de CMMI y SQuaRE permite evaluar tanto procesos organizacionales como calidad del producto.</em>',
+            '<em>La integración de CMMI y <em>SQuaRE</em> permite evaluar tanto procesos organizacionales como calidad del producto.</em>',
           imagen: require('@/assets/actividad/img_2.png'),
           barajarRespuestas: true,
           opciones: [
@@ -419,7 +419,7 @@ export default {
         {
           id: 18,
           texto:
-            '<em>Las métricas de calidad interna (ISO/IEC 25024) evalúan la experiencia del usuario con el software.</em>',
+            'Las métricas de calidad interna (ISO/IEC 25024) evalúan la experiencia del usuario con el<em>software</em>.',
           imagen: require('@/assets/actividad/img_3.png'),
           barajarRespuestas: true,
           opciones: [

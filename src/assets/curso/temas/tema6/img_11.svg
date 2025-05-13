@@ -14,15 +14,15 @@
 	.st8{fill:#049767;}
 </style>
 <g id="Grupo_1118397" transform="translate(-180.475 -2151.968)">
-	<text transform="matrix(1.1459 0 0 1 238.9181 2244.9675)" class="st0 st1 st2">Evaluación con ISO/IEC 25000</text>
-	<text transform="matrix(1.1459 0 0 1 238.9181 2279.9685)" class="st0 st1 st2">Funcionalidad, Fiabilidad, Usabilidad</text>
-	<text transform="matrix(1.1459 0 0 1 238.9181 2314.9695)" class="st0 st1 st2">Identificación de fortalezas y mejoras</text>
+	<text transform="matrix(1.1459 0 0 1 238.9179 2244.9673)" class="st0 st1 st2">Evaluación con ISO/IEC 25000</text>
+	<text transform="matrix(1.1459 0 0 1 238.9179 2279.9683)" class="st0 st1 st2">Funcionalidad, Fiabilidad, Usabilidad</text>
+	<text transform="matrix(1.1459 0 0 1 238.9179 2314.9692)" class="st0 st1 st2">Identificación de fortalezas y mejoras</text>
 	<rect id="Rectángulo_410373" x="180.5" y="2152" class="st3" width="439.7" height="45"/>
 	<g id="Rectángulo_410372" transform="translate(180.475 2151.968)">
-		<rect class="st4" width="439.7" height="209"/>
+		<rect y="0" class="st4" width="439.7" height="209"/>
 		<rect x="1.1" y="1" class="st5" width="437.4" height="207"/>
 	</g>
-	<text transform="matrix(1.1459 0 0 1 204.5773 2181.9675)" class="st6 st7 st2">Caso: Ministerio de Salud del Perú</text>
+	<text transform="matrix(1.1459 0 0 1 204.5771 2181.9673)" class="st6 st7 st2">Caso ministerio de Salud del Perú</text>
 	<ellipse id="Elipse_12827" class="st8" cx="231" cy="2237.6" rx="3.4" ry="3"/>
 	<ellipse id="Elipse_12828" class="st8" cx="231" cy="2272.6" rx="3.4" ry="3"/>
 	<ellipse id="Elipse_12829" class="st8" cx="231" cy="2307.6" rx="3.4" ry="3"/>

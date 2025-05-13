@@ -8,9 +8,9 @@
       h1 Requisitos y evaluación de calidad
     .bloque-texto-t.justify-content-center.align-items-center.mb-0
       .bloque-texto-t__img.mb-0
-        img(src='@/assets/curso/temas/tema4/img_1.png', alt='Código de programación en pantalla, representación de  <i>software</i>')
+        img(src='@/assets/curso/temas/tema4/img_1.png', alt='Código de programación en pantalla, representación de  <em>software</em>')
       .bloque-texto-t__texto.col-8.mb-0
-        p.mb-0 La integración de requisitos claros y procesos de evaluación rigurosos es fundamental para garantizar que el  <i>software</i> cumpla con las expectativas y necesidades del cliente a lo largo de su ciclo de vida.
+        p.mb-0 La integración de requisitos claros y procesos de evaluación rigurosos es fundamental para garantizar que el  <em>software</em> cumpla con las expectativas y necesidades del cliente a lo largo de su ciclo de vida.
 
     separador
 

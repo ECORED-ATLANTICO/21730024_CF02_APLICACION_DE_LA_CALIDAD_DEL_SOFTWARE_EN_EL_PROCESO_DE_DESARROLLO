@@ -16,7 +16,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/temas/tema5/img_3.png')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p.mb-0 La correcta interpretación de la calidad del <i>software</i> requiere considerar distintas vistas que reflejen tanto su estructura interna como su comportamiento en uso, complementadas con una documentación detallada que respalde la evaluación.
+            p.mb-0 La correcta interpretación de la calidad del <em>software</em> requiere considerar distintas vistas que reflejen tanto su estructura interna como su comportamiento en uso, complementadas con una documentación detallada que respalde la evaluación.
 
     separador
 
@@ -25,7 +25,7 @@
     .mb-3
     .row.justify-content-center.align-items-center.mb-5
       .col-12.col-lg-8.order-2.order-lg-1.mb-lg-0.mb-5
-        p.mb-3 Se definen tres vistas fundamentales para la evaluación del <i>software</i>:
+        p.mb-3 Se definen tres vistas fundamentales para la evaluación del <em>software</em>:
         .crd--Horizontal.crd__secundario-5.mb-3
           .row.align-items-center
             .col-auto.position-relative
@@ -34,7 +34,7 @@
             .col
               p
                 b Vista interna: 
-                | se centra en la arquitectura, el diseño del código y la estructura del <i>software</i>, evaluando aspectos como la mantenibilidad y la eficiencia.
+                | se centra en la arquitectura, el diseño del código y la estructura del <em>software</em>, evaluando aspectos como la mantenibilidad y la eficiencia.
         .crd--Horizontal.crd__sistema-h.mb-3
           .row.align-items-center
             .col-auto.position-relative

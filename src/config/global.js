@@ -1,9 +1,9 @@
 export default {
   global: {
     Name:
-      'Medición, evaluación y aplicación práctica de la calidad de <I>software</I>',
+      'Medición, evaluación y aplicación práctica de la calidad de <em>software</em>',
     Description:
-      'Este componente formativo profundiza en la medición y evaluación de calidad de <I>software</I> mediante normas <I>ISO/IEC</I> 25000 (2501n, 2502n), modelos (<I>ISO/IEC</I> 25010, 25012) y métricas (internas, externas, uso). Incluye casos prácticos de aplicación para ilustrar implementación de estándares y procesos evaluativos, reforzando la gestión integral de calidad con enfoque <I>SQuaRE.</I>',
+      'Este componente formativo profundiza en la medición y evaluación de calidad de <em>software</em> mediante normas <I>ISO/IEC</I> 25000 (2501n, 2502n), modelos (<I>ISO/IEC</I> 25010, 25012) y métricas (internas, externas, uso). Incluye casos prácticos de aplicación para ilustrar implementación de estándares y procesos evaluativos, reforzando la gestión integral de calidad con enfoque <em>SQuaRE</em>.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -37,7 +37,7 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Introducción a la norma ISO/IEC 25000 SQuaRE',
+        titulo: 'Introducción a la norma ISO/IEC 25000 <em>SQuaRE</em>',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -64,7 +64,7 @@ export default {
           {
             numero: '2.1',
             titulo:
-              'ISO/IEC 25010: características y subcaracterísticas para sistemas y <I>software',
+              'ISO/IEC 25010: características y subcaracterísticas para sistemas y <em>software</em>',
             hash: 't_2_1',
           },
           {
@@ -103,7 +103,7 @@ export default {
       {
         nombreRuta: 'tema5',
         numero: '5',
-        titulo: 'Vistas y documentación en SQuaRE',
+        titulo: 'Vistas y documentación en <em>SQuaRE</em>',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -132,7 +132,8 @@ export default {
           },
           {
             numero: '6.2',
-            titulo: 'Comparación de <I>software de diseño (Adobe vs. Corel)',
+            titulo:
+              'Comparación de <em>software</em> de diseño (Adobe vs. Corel)',
             hash: 't_6_2',
           },
           {
@@ -152,7 +153,7 @@ export default {
           {
             numero: '7.1',
             titulo:
-              'Uso combinado de CMMI, PSP/TSP y SQuaRE para garantizar calidad total',
+              'Uso combinado de CMMI, PSP/TSP y <em>SQuaRE</em> para garantizar calidad total',
             hash: 't_7_1',
           },
         ],
@@ -259,7 +260,7 @@ export default {
         'elementos de medida de calidad: métricas base para evaluar atributos del <em>software</em> según normas ISO/IEC 2502n.',
     },
     {
-      termino: 'SQuaRE',
+      termino: '<em>SQuaRE</em>',
       significado:
         'proceso <em>software</em> en equipo: metodología para optimizar trabajo colaborativo en desarrollo de <em>software</em>, complementando PSP.',
     },
@@ -276,7 +277,8 @@ export default {
   ],
   referencias: [
     {
-      referencia: '<b>Cordero, I.</b> (2017). Norma ISO 25000:2500 <em>SQuaRE.',
+      referencia:
+        '<b>Cordero, I.</b> (2017). Norma ISO 25000:2500 <em>SQuaRE</em>.',
       link:
         'https://www.mindmeister.com/es/91369914/norma-iso-25000-2005-square-software-quality-requirements-and-evaluation',
     },
@@ -297,12 +299,13 @@ export default {
       link: 'http://iso25000.com/index.php/normas-iso-25000',
     },
     {
-      referencia: '<b>Samuel, J.</b> (2017). <em>TSP Team Software Proccess)',
+      referencia:
+        '<b>Samuel, J.</b> (2017). TSP Team <em>software</em> Proccess)',
       link: 'http://ingsistemascalidad.blogspot.com.co/2009/11/desarrollo.html',
     },
     {
       referencia:
-        '<b>Wagner, S.</b> (2017). <em>Software Product quality control</em>. ',
+        '<b>Wagner, S.</b> (2017). <em>software</em> Product quality control. ',
       link:
         'https://books.google.com.co/books?id=cNy4BAAAQBAJ&pg=PA25&lpg=PA25&dq=(SPQM-RM)&source=bl&ots=RxUkbHtsqC&sig=jJ08WfcW2bVEPohAtJ1p_XR30n0&hl=es-',
     },

@@ -39,3 +39,9 @@ npm run build
 ### Linteo y arreglo de sintaxis de archivos
 
 ```
+npm run lint
+```
+
+
+## **Documentacion AOS**
+[https://github.com/michalsnik/aos](https://github.com/michalsnik/aos)
