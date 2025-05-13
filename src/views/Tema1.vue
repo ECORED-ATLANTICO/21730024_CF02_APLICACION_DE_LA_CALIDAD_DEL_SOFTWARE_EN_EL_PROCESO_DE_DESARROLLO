@@ -36,8 +36,8 @@
         figure
           img(src="@/assets/curso/temas/tema1/img_3.png", class="img-fluid")
       .col-12.col-lg-7.mb-0.order-3.order-lg-3.p-0
-        .custom-slider.p-0
-          SlyderF(columnas="col-12 col-sm-10 col-md-6 col-lg-6 p-0")
+        .custom-slider.p-3
+          SlyderF(columnas="col-12 col-sm-10 col-md-6 col-lg-6 p-3")
             .tarjeta.tarjeta.rounded-5.custom-slider__tarjeta.custom-slider__tarjeta--1
               .custom-slider__title.color-secundario-20.mb-3.mb-md-3.mb-lg-5 2501n – Modelo de calidad: 
               .custom-slider__content.mb-0 Define las características y subcaracterísticas que debe poseer el producto de software para cumplir con estándares de calidad, estableciendo parámetros que abarcan desde la funcionalidad hasta la usabilidad y seguridad.
