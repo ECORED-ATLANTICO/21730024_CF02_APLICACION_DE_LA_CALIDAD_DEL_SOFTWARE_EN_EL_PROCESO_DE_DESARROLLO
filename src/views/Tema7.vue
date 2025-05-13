@@ -13,7 +13,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/temas/tema7/img_1.png')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p.mb-0 La mejora continua de la calidad del software se potencia al integrar distintos modelos y metodologías de evaluación.
+            p.mb-0 La mejora continua de la calidad del  <i>software</i> se potencia al integrar distintos modelos y metodologías de evaluación.
 
     separador
 
@@ -30,12 +30,12 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-12.col-lg-9.order-2.order-lg-1.mb-0
         AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--color-secundario-10")
-          div(titulo="oCMMI")
-            p.mb-0 aporta un enfoque estructurado para la mejora de procesos y la madurez organizacional, estableciendo niveles de gestión que facilitan la identificación de áreas críticas.
+          div(titulo="CMMI")
+            p.mb-0 Aporta un enfoque estructurado para la mejora de procesos y la madurez organizacional, estableciendo niveles de gestión que facilitan la identificación de áreas críticas.
           div(titulo="PSP/TSP")
-            p.mb-0 contribuye a la optimización de los procesos individuales y en equipo, favoreciendo la planificación, ejecución y control de las actividades de desarrollo.
+            p.mb-0 Contribuye a la optimización de los procesos individuales y en equipo, favoreciendo la planificación, ejecución y control de las actividades de desarrollo.
           div(titulo="<em>SQuaRE</em>")
-            p.mb-0 ofrece un marco normativo que define, mide y evalúa la calidad del <em>software</em> de manera integral.
+            p.mb-0 Ofrece un marco normativo que define, mide y evalúa la calidad del <em>software</em> de manera integral.
       .col-7.col-md-5.col-lg-3.mb-lg-3.order-1.order-lg-2.mb-md-3.mb-3
         figure
           img.mb-0(src="@/assets/curso/temas/tema7/img_3.png", class="img-fluid")

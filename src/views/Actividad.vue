@@ -17,8 +17,8 @@ export default {
   },
   data: () => ({
     cuestionario: {
-      tema: 'Evaluación de normas y métricas de calidad en software',
-      titulo: 'Evaluación de normas y métricas de calidad en software',
+      tema: 'Evaluación de normas y métricas de calidad en <em>software',
+      titulo: 'Evaluación de normas y métricas de calidad en <em>software',
       introduccion:
         '<b> Objetivo:</b> Evaluar la comprensión de los aprendices sobre la familia de normas ISO/IEC 25000 <em>(SQuaRE)</em>, modelos de calidad (ISO/IEC 25010, 25012), métricas (2502n) y su aplicación práctica.',
       barajarPreguntas: true,
@@ -51,7 +51,7 @@ export default {
         {
           id: 2,
           texto:
-            '<em>ISO/IEC 25010 define características de calidad para sistemas y software, pero no incluye subcaracterísticas</em>',
+            '<em>ISO/IEC 25010 define características de calidad para sistemas y  <i>software</i>, pero no incluye subcaracterísticas</em>',
           imagen: require('@/assets/actividad/img_2.png'),
           barajarRespuestas: true,
           opciones: [
@@ -143,7 +143,7 @@ export default {
         {
           id: 6,
           texto:
-            '<em>La vista interna en SQuaRE analiza el rendimiento del software en operación.</em>',
+            '<em>La vista interna en SQuaRE analiza el rendimiento del  <i>software</i> en operación.</em>',
           imagen: require('@/assets/actividad/img_1.png'),
           barajarRespuestas: true,
           opciones: [

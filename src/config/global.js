@@ -1,9 +1,9 @@
 export default {
   global: {
     Name:
-      'Medición, evaluación y aplicación práctica de la calidad de software',
+      'Medición, evaluación y aplicación práctica de la calidad de <I>software</I>',
     Description:
-      'Este componente formativo profundiza en la medición y evaluación de calidad de software mediante normas ISO/IEC 25000 (2501n, 2502n), modelos (ISO/IEC 25010, 25012) y métricas (internas, externas, uso). Incluye casos prácticos de aplicación para ilustrar implementación de estándares y procesos evaluativos, reforzando la gestión integral de calidad con enfoque SQuaRE.',
+      'Este componente formativo profundiza en la medición y evaluación de calidad de <I>software</I> mediante normas <I>ISO/IEC</I> 25000 (2501n, 2502n), modelos (<I>ISO/IEC</I> 25010, 25012) y métricas (internas, externas, uso). Incluye casos prácticos de aplicación para ilustrar implementación de estándares y procesos evaluativos, reforzando la gestión integral de calidad con enfoque <I>SQuaRE.</I>',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -64,7 +64,7 @@ export default {
           {
             numero: '2.1',
             titulo:
-              'ISO/IEC 25010: características y subcaracterísticas para sistemas y software',
+              'ISO/IEC 25010: características y subcaracterísticas para sistemas y <I>software',
             hash: 't_2_1',
           },
           {
@@ -132,7 +132,7 @@ export default {
           },
           {
             numero: '6.2',
-            titulo: 'Comparación de software de diseño (Adobe vs. Corel)',
+            titulo: 'Comparación de <I>software de diseño (Adobe vs. Corel)',
             hash: 't_6_2',
           },
           {
@@ -207,22 +207,22 @@ export default {
     {
       tema: 'PSP y TSP',
       referencia:
-        'Humphrey, W. S. (2017). Introducción al proceso software personal. SEI.',
+        'Humphrey, W. S. (2017). Introducción al proceso <em>software</em> personal. SEI.',
       tipo: 'Capítulo de libro',
       link:
-        'https://www.academia.edu/16340802/Introduccion_al_Proceso_Software_Personal',
+        'https://www.academia.edu/16340802/Introduccion_al_Proceso_software_Personal',
     },
     {
-      tema: 'ISO/IEC 25000 SQuaRE',
+      tema: 'ISO/IEC 25000 <em>SQuaRE</em>',
       referencia:
-        'Garzás, J. (2012). Cómo estandarizar la evaluación de la calidad software… la ISO 9126 y la ISO 25000.',
+        'Garzás, J. (2012). Cómo estandarizar la evaluación de la calidad <em>software</em>… la ISO 9126 y la ISO 25000.',
       tipo: 'Blog técnico',
       link: 'https://www.javiergarzas.com/2012/10/iso-9126-iso-25000-2.html',
     },
     {
-      tema: 'ISO/IEC 25000 SQuaRE',
+      tema: 'ISO/IEC 25000 <em>SQuaRE</em>',
       referencia:
-        'Domínguez, J. (2019). Evaluación de la Calidad del Software con la ISO 25000.',
+        'Domínguez, J. (2019). Evaluación de la Calidad del <em>software</em> con la ISO 25000.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=Nc4YOEwN6ek',
     },
@@ -231,63 +231,63 @@ export default {
     {
       termino: 'Calidad en uso',
       significado:
-        'grado en que un software satisface necesidades de efectividad, eficiencia y satisfacción del usuario en un contexto específico.',
+        'grado en que un <em>software</em> satisface necesidades de efectividad, eficiencia y satisfacción del usuario en un contexto específico.',
     },
     {
       termino: 'CMMI',
       significado:
-        'modelo de integración de madurez de capacidades para mejorar procesos de desarrollo de software, enfocado en niveles de madurez organizacional.',
+        'modelo de integración de madurez de capacidades para mejorar procesos de desarrollo de <em>software</em>, enfocado en niveles de madurez organizacional.',
     },
     {
       termino: 'GQM',
       significado:
-        'método para definir métricas a partir de objetivos (Goal-Question-Metric), utilizado para medir calidad y rendimiento.',
+        'método para definir métricas a partir de objetivos (<em>Goal-Question-Metric</em>), utilizado para medir calidad y rendimiento.',
     },
     {
       termino: 'ISO/IEC 25000',
       significado:
-        'familia de normas que establece requisitos y evaluación de calidad de software (SQuaRE), integrando modelos, medidas y procesos.',
+        'familia de normas que establece requisitos y evaluación de calidad de <em>software</em> (<em>SQuaRE</em>), integrando modelos, medidas y procesos.',
     },
     {
       termino: 'PSP',
       significado:
-        'proceso software personal: método para mejorar la productividad individual en desarrollo de software mediante planificación y registro.',
+        'proceso <em>software</em> personal: método para mejorar la productividad individual en desarrollo de <em>software</em> mediante planificación y registro.',
     },
     {
       termino: 'QME',
       significado:
-        'elementos de medida de calidad: métricas base para evaluar atributos del software según normas ISO/IEC 2502n.',
+        'elementos de medida de calidad: métricas base para evaluar atributos del <em>software</em> según normas ISO/IEC 2502n.',
     },
     {
       termino: 'SQuaRE',
       significado:
-        'proceso Software en equipo: metodología para optimizar trabajo colaborativo en desarrollo de software, complementando PSP.',
+        'proceso <em>software</em> en equipo: metodología para optimizar trabajo colaborativo en desarrollo de <em>software</em>, complementando PSP.',
     },
     {
       termino: 'Validación',
       significado:
-        'confirmación mediante pruebas de que el software cumple con los requisitos del usuario.',
+        'confirmación mediante pruebas de que el <em>software</em> cumple con los requisitos del usuario.',
     },
     {
       termino: 'Verificación',
       significado:
-        'confirmación de que el software cumple con especificaciones técnicas y está libre de errores.',
+        'confirmación de que el <em>software</em> cumple con especificaciones técnicas y está libre de errores.',
     },
   ],
   referencias: [
     {
-      referencia: '<b>Cordero, I.</b> (2017). Norma ISO 25000:2500 SQuaRE.',
+      referencia: '<b>Cordero, I.</b> (2017). Norma ISO 25000:2500 <em>SQuaRE.',
       link:
         'https://www.mindmeister.com/es/91369914/norma-iso-25000-2005-square-software-quality-requirements-and-evaluation',
     },
     {
       referencia:
-        '<b>Garzás, J.</b> (2017). Cómo estandarizar la evaluación de la calidad software... la ISO 9126 y la ISO 25000.',
+        '<b>Garzás, J.</b> (2017). Cómo estandarizar la evaluación de la calidad <em>software</em>... la ISO 9126 y la ISO 25000.',
       link: 'http://www.javiergarzas.com/2012/10/iso-9126-iso-25000-2.html',
     },
     {
       referencia:
-        '<b>Humphrey, W. S.</b> (2017). Introducción al proceso software personal.',
+        '<b>Humphrey, W. S.</b> (2017). Introducción al proceso <em>software</em> personal.',
       link:
         'https://www.uv.mx/personal/asumano/files/2010/07/psp.pdf?utm_source=chatgpt.com',
     },
@@ -297,12 +297,12 @@ export default {
       link: 'http://iso25000.com/index.php/normas-iso-25000',
     },
     {
-      referencia: '<b>Samuel, J.</b> (2017). TSP (Team Software Proccess).',
+      referencia: '<b>Samuel, J.</b> (2017). <em>TSP Team Software Proccess)',
       link: 'http://ingsistemascalidad.blogspot.com.co/2009/11/desarrollo.html',
     },
     {
       referencia:
-        '<b>Wagner, S.</b> (2017). Software Product quality control. ',
+        '<b>Wagner, S.</b> (2017). <em>Software Product quality control</em>. ',
       link:
         'https://books.google.com.co/books?id=cNy4BAAAQBAJ&pg=PA25&lpg=PA25&dq=(SPQM-RM)&source=bl&ots=RxUkbHtsqC&sig=jJ08WfcW2bVEPohAtJ1p_XR30n0&hl=es-',
     },
