@@ -17,8 +17,8 @@ export default {
   },
   data: () => ({
     cuestionario: {
-      tema: 'Evaluación de normas y métricas de calidad en <em>software',
-      titulo: 'Evaluación de normas y métricas de calidad en <em>software',
+      tema: 'Evaluación de normas y métricas de calidad en software',
+      titulo: 'Evaluación de normas y métricas de calidad en software',
       introduccion:
         '<b> Objetivo:</b> Evaluar la comprensión de los aprendices sobre la familia de normas ISO/IEC 25000 <em>(SQuaRE)</em>, modelos de calidad (ISO/IEC 25010, 25012), métricas (2502n) y su aplicación práctica.',
       barajarPreguntas: true,
