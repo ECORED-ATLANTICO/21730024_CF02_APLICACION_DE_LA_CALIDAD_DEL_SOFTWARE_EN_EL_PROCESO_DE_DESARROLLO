@@ -300,12 +300,12 @@ export default {
     },
     {
       referencia:
-        '<b>Samuel, J.</b> (2017). TSP Team <em>software</em> Proccess)',
+        '<b>Samuel, J.</b> (2017).  <em> TSP Team Software Proccess)</em>',
       link: 'http://ingsistemascalidad.blogspot.com.co/2009/11/desarrollo.html',
     },
     {
       referencia:
-        '<b>Wagner, S.</b> (2017). <em>software</em> Product quality control. ',
+        '<b>Wagner, S.</b> (2017). <em>Software Product Quality Control.</em>',
       link:
         'https://books.google.com.co/books?id=cNy4BAAAQBAJ&pg=PA25&lpg=PA25&dq=(SPQM-RM)&source=bl&ots=RxUkbHtsqC&sig=jJ08WfcW2bVEPohAtJ1p_XR30n0&hl=es-',
     },
