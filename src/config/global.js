@@ -337,7 +337,7 @@ export default {
             'Centro de Gestión de Mercados Logística y Tecnologías de la Información - Regional Distrito Capital ',
         },
         {
-          nombre: 'Heydy Cristina Gonzalez Garcia',
+          nombre: 'Heydy Cristina González García',
           cargo: 'Evaluadora instruccional',
           centro: 'Centro de Comercio y Servicios -Regional Atlántico',
         },
@@ -362,7 +362,7 @@ export default {
           centro: 'Centro de Comercio y Servicios – Regional Atlántico',
         },
         {
-          nombre: 'Nelson Ivan Vera Briceño',
+          nombre: 'Nelson Iván Vera Briceño',
           cargo: 'Animador y productor audiovisual',
           centro: 'Centro de Comercio y Servicios – Regional Atlántico',
         },
@@ -372,7 +372,7 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Maria Fernanda Morales Angulo',
+          nombre: 'María Fernanda Morales Angulo',
           cargo: 'Evaluador de contenidos inclusivos y accesibles',
           centro: 'Centro de Comercio y Servicios – Regional Atlántico',
         },
