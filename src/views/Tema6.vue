@@ -86,7 +86,7 @@
                   p.mb-0 se consideraron métricas de tiempo de respuesta y consumo de recursos. La integración de estos indicadores permitió una valoración integral que facilitó la toma de decisiones basada en datos objetivos (G., 2014).
     .titulo-sexto.color-acento-contenido
       h5 Figura 4.  
-      I(style="font-weight: normal;") Análisis de caso práctico
+      span.text-dark(style="font-weight: normal;") Análisis de caso práctico
     
     .row.justify-content-center.align-items-center.mb-3
       .col-12.col-md-8.col-lg-4.mb-lg-0.mb-3
@@ -99,7 +99,7 @@
         figure
           img.mb-3(src="@/assets/curso/temas/tema6/img_13.svg", class="img-fluid")
     figcaption 
-      I(style="font-weight: normal;") Fuente.  
+      span.text-dark(style="font-weight: normal;") Fuente.  
       | SENA (2025).
 </template>
 

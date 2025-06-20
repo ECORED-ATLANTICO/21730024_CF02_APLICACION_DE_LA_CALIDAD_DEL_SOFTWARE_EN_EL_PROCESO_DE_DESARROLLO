@@ -58,7 +58,7 @@
           img(src="@/assets/curso/temas/tema5/img_7.png", class="img-fluid")
     .titulo-sexto.color-acento-contenido
       h5 Figura 3.  
-      I(style="font-weight: normal;") Vistas de calidad en <em>SQuaRE</em>
+      span.text-dark(style="font-weight: normal;") Vistas de calidad en <em>SQuaRE</em>
     .row.justify-content-center.align-items-center.mb-3
       .col-12.col-md-8.col-lg-4.mb-lg-0.mb-3
         figure
@@ -70,7 +70,7 @@
         figure
           img(src="@/assets/curso/temas/tema5/img_10.svg", class="img-fluid")
     figcaption 
-      I(style="font-weight: normal;") Fuente.  
+      span.text-dark(style="font-weight: normal;") Fuente.  
       | SENA (2025).
 
     separador

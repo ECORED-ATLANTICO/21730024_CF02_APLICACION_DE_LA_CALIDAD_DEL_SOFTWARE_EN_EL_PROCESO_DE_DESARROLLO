@@ -27,12 +27,12 @@
 
     .titulo-sexto.color-acento-contenido
       h5 Figura 1. 
-      I(style="font-weight: normal;") Características y subcaracterísticas del modelo ISO/IEC 25010
+       span.text-dark(style="font-weight: normal;") Características y subcaracterísticas del modelo ISO/IEC 25010
       
     figure
       img.mb-3(src="@/assets/curso/temas/tema2/img_3.svg", class="img-fluid")
     figcaption 
-      I(style="font-weight: normal;") Fuente.  
+      span.text-dark(style="font-weight: normal;") Fuente.  
       | SENA (2025).
 
     separador
@@ -50,12 +50,12 @@
       .col-lg-8.mb-0
         .titulo-sexto.color-acento-contenido
           h5 Figura 2. 
-          I(style="font-weight: normal;") Características de calidad de producto de datos (ISO/IEC 25012)
+          span.text-dark(style="font-weight: normal;") Características de calidad de producto de datos (ISO/IEC 25012)
 
         figure.mb-0
           img.mb-3(src="@/assets/curso/temas/tema2/img_5.svg", class="img-fluid")
         figcaption 
-          I(style="font-weight: normal;") Fuente.  
+          span.text-dark(style="font-weight: normal;") Fuente.  
           | SENA (2025).
 </template>
 
