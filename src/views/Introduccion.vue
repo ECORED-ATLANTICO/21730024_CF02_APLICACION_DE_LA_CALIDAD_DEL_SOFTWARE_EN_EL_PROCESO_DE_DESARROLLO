@@ -17,7 +17,7 @@
             p.mb-0 El componente formativo “Medición, evaluación y aplicación práctica de la calidad de <em>software</em>” profundiza en los aspectos avanzados de la calidad del  <em>software</em>, centrándose en la medición y evaluación bajo el marco de la familia de normas ISO/IEC 25000. A través de un enfoque práctico, se exploran modelos como ISO/IEC 25010 (sistemas y  <em>software</em>) e ISO/IEC 25012 (datos), junto con métricas internas, externas y de uso, complementadas con casos reales. Además, se refuerza la comprensión de la norma ISO/IEC 25000 <em>SQuaRE</em>, destacando sus ventajas y divisiones para fortalecer el proceso de evaluación. Este componente te brinda herramientas para transformar la calidad en un elemento estratégico, garantizando que los productos de  <em>software</em> cumplan con los más altos estándares y expectativas del cliente.
     figure
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/FZcm_3C5Ve8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/0PCO63hspv4?si=BcVslcb7UIqyYZu3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 </template>
 
 <script>
