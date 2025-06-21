@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="362" height="250" viewBox="0 0 362 250">
+  <g id="Grupo_1118395" data-name="Grupo 1118395" transform="translate(-1057.525 -2123.553)">
+    <g id="Grupo_1118394" data-name="Grupo 1118394">
+      <g id="Grupo_1118393" data-name="Grupo 1118393">
+        <g id="Grupo_1118021" data-name="Grupo 1118021" transform="translate(-0.525 -1875.447)">
+          <path id="Trazado_912574" data-name="Trazado 912574" d="M0,104.81,98.525,0,206.908,101.372,98.525,195.735Z" transform="matrix(0.999, 0.035, -0.035, 0.999, 1134.626, 4030.246)" fill="#d8f2fc" stroke="#41c0f0" stroke-width="2"/>
+          <g id="Elipse_12830" data-name="Elipse 12830" transform="translate(1134.051 4037)" fill="none" stroke="#707070" stroke-width="1">
+            <circle cx="97" cy="97" r="97" stroke="none"/>
+            <circle cx="97" cy="97" r="96.5" fill="none"/>
+          </g>
+          <path id="Rectángulo_410374" data-name="Rectángulo 410374" d="M9,0H95a0,0,0,0,1,0,0V26a9,9,0,0,1-9,9H0a0,0,0,0,1,0,0V9A9,9,0,0,1,9,0Z" transform="translate(1187.051 3999)" fill="#41c0f0"/>
+          <text id="Perfil_de_métricas" data-name="Perfil de métricas" transform="translate(1199.051 4014)" fill="#12263f" font-size="9" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">Perfil de métricas</tspan></text>
+          <text id="Fiabilidad" transform="translate(1216.051 4027)" fill="#12263f" font-size="9" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Fiabilidad</tspan></text>
+          <path id="Rectángulo_410375" data-name="Rectángulo 410375" d="M9,0H68a0,0,0,0,1,0,0V11a9,9,0,0,1-9,9H0a0,0,0,0,1,0,0V9A9,9,0,0,1,9,0Z" transform="translate(1058.051 4125)" fill="#41c0f0"/>
+          <path id="Rectángulo_410376" data-name="Rectángulo 410376" d="M9,0H82a0,0,0,0,1,0,0V11a9,9,0,0,1-9,9H0a0,0,0,0,1,0,0V9A9,9,0,0,1,9,0Z" transform="translate(1338.051 4126)" fill="#41c0f0"/>
+          <path id="Rectángulo_410377" data-name="Rectángulo 410377" d="M9,0H83a0,0,0,0,1,0,0V10a9,9,0,0,1-9,9H0a0,0,0,0,1,0,0V9A9,9,0,0,1,9,0Z" transform="translate(1183.051 4230)" fill="#41c0f0"/>
+          <text id="Usabilidad" transform="translate(1066.051 4138)" fill="#12263f" font-size="9" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Usabilidad</tspan></text>
+          <text id="Funcionalidad" transform="translate(1346.051 4139)" fill="#12263f" font-size="9" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Funcionalidad</tspan></text>
+          <text id="Eficiencia" transform="translate(1203.051 4242)" fill="#12263f" font-size="9" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Eficiencia</tspan></text>
+          <g id="Elipse_12831" data-name="Elipse 12831" transform="translate(1152.051 4055)" fill="none" stroke="#707070" stroke-width="1">
+            <circle cx="79" cy="79" r="79" stroke="none"/>
+            <circle cx="79" cy="79" r="78.5" fill="none"/>
+          </g>
+          <g id="Elipse_12832" data-name="Elipse 12832" transform="translate(1169.051 4072)" fill="none" stroke="#707070" stroke-width="1">
+            <ellipse cx="62" cy="61.5" rx="62" ry="61.5" stroke="none"/>
+            <ellipse cx="62" cy="61.5" rx="61.5" ry="61" fill="none"/>
+          </g>
+          <g id="Elipse_12833" data-name="Elipse 12833" transform="translate(1190.051 4093)" fill="none" stroke="#707070" stroke-width="1">
+            <circle cx="40.5" cy="40.5" r="40.5" stroke="none"/>
+            <circle cx="40.5" cy="40.5" r="40" fill="none"/>
+          </g>
+          <line id="Línea_217" data-name="Línea 217" y2="202" transform="translate(1232.051 4033)" fill="none" stroke="#707070" stroke-width="1"/>
+          <line id="Línea_218" data-name="Línea 218" x1="194" y1="1" transform="translate(1134.051 4134)" fill="none" stroke="#707070" stroke-width="1"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
