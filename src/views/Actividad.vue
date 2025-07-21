@@ -20,7 +20,7 @@ export default {
       tema: 'Evaluación de normas y métricas de calidad en <i>software</i>',
       titulo: 'Evaluación de normas y métricas de calidad en 𝙨𝙤𝙛𝙩𝙬𝙖𝙧𝙚',
       introduccion:
-        '<b>Objetivo:</b> Evaluar la comprensión de los aprendices sobre la familia de normas ISO/IEC 25000 <em>(SQuaRE)</em>, modelos de calidad (ISO/IEC 25010, 25012), métricas (2502n) y su aplicación práctica.',
+        '<b>Objetivo:</b> evaluar la comprensión de los aprendices sobre la familia de normas ISO/IEC 25000 <em>(SQuaRE)</em>, modelos de calidad (ISO/IEC 25010, 25012), métricas (2502n) y su aplicación práctica.',
       barajarPreguntas: true,
       titulo_aprobado: '¡BUEN TRABAJO!..',
       titulo_reprobado: 'VUELVA A INTENTARLO..',
@@ -28,18 +28,18 @@ export default {
         {
           id: 1,
           texto:
-            '<em>La norma ISO/IEC 25000 <em>SQuaRE</em> reemplazó completamente a las normas ISO/IEC 9126 e ISO/IEC 14598.</em>',
+            'La norma ISO/IEC 25000 <em>SQuaRE</em> reemplazó completamente a las normas ISO/IEC 9126 e ISO/IEC 14598.',
           imagen: require('@/assets/actividad/img_1.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: '<em>Verdadero</em>',
+              texto: 'Verdadero',
               esCorrecta: true,
             },
             {
               id: 'b',
-              texto: '<em>Falso</em>',
+              texto: 'Falso',
               esCorrecta: false,
             },
           ],
@@ -51,18 +51,18 @@ export default {
         {
           id: 2,
           texto:
-            '<em>ISO/IEC 25010 define características de calidad para sistemas y  <em>software</em>, pero no incluye subcaracterísticas</em>',
+            'ISO/IEC 25010 define características de calidad para sistemas y  <em>software</em>, pero no incluye subcaracterísticas',
           imagen: require('@/assets/actividad/img_2.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: '<em>Verdadero</em>',
+              texto: 'Verdadero',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: '<em>Falso</em>',
+              texto: 'Falso',
               esCorrecta: true,
             },
           ],
@@ -74,18 +74,18 @@ export default {
         {
           id: 3,
           texto:
-            '<em>ISO/IEC 25012 se enfoca exclusivamente en la calidad de datos inherentes, ignorando los dependientes del sistema.</em>',
+            'ISO/IEC 25012 se enfoca exclusivamente en la calidad de datos inherentes, ignorando los dependientes del sistema.',
           imagen: require('@/assets/actividad/img_3.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: '<em>Verdadero</em>',
+              texto: 'Verdadero',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: '<em>Falso</em>',
+              texto: 'Falso',
               esCorrecta: true,
             },
           ],
@@ -97,18 +97,18 @@ export default {
         {
           id: 4,
           texto:
-            '<em>Las medidas primitivas (QME) en ISO/IEC 25021 son métricas base para evaluar calidad interna y externa.</em>',
+            'Las medidas primitivas (QME) en ISO/IEC 25021 son métricas base para evaluar calidad interna y externa.',
           imagen: require('@/assets/actividad/img_4.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: '<em>Verdadero</em>',
+              texto: 'Verdadero',
               esCorrecta: true,
             },
             {
               id: 'b',
-              texto: '<em>Falso</em>',
+              texto: 'Falso',
               esCorrecta: false,
             },
           ],
@@ -120,18 +120,18 @@ export default {
         {
           id: 5,
           texto:
-            '<em>ISO/IEC 25023 mide la calidad en uso, como la satisfacción del usuario.</em>',
+            'ISO/IEC 25023 mide la calidad en uso, como la satisfacción del usuario.',
           imagen: require('@/assets/actividad/img_5.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: '<em>Verdadero</em>',
+              texto: 'Verdadero',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: '<em>Falso</em>',
+              texto: 'Falso',
               esCorrecta: true,
             },
           ],
@@ -143,18 +143,18 @@ export default {
         {
           id: 6,
           texto:
-            '<em>La vista interna en <em>SQuaRE</em> analiza el rendimiento del  <em>software</em> en operación.</em>',
+            'La vista interna en <em>SQuaRE</em> analiza el rendimiento del  <em>software</em> en operación.',
           imagen: require('@/assets/actividad/img_1.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: '<em>Verdadero</em>',
+              texto: 'Verdadero',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: '<em>Falso</em>',
+              texto: 'Falso',
               esCorrecta: true,
             },
           ],
@@ -166,18 +166,18 @@ export default {
         {
           id: 7,
           texto:
-            '<em>ISO/IEC 25030 especifica requisitos de calidad para etapas tempranas del desarrollo.</em>',
+            'ISO/IEC 25030 especifica requisitos de calidad para etapas tempranas del desarrollo.',
           imagen: require('@/assets/actividad/img_2.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: '<em>Verdadero</em>',
+              texto: 'Verdadero',
               esCorrecta: true,
             },
             {
               id: 'b',
-              texto: '<em>Falso</em>',
+              texto: 'Falso',
               esCorrecta: false,
             },
           ],
@@ -189,18 +189,18 @@ export default {
         {
           id: 8,
           texto:
-            '<em>El caso del Ministerio de Salud del Perú aplicó métricas de usabilidad pero no de eficiencia.</em>',
+            'El caso del Ministerio de Salud del Perú aplicó métricas de usabilidad pero no de eficiencia.',
           imagen: require('@/assets/actividad/img_3.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: '<em>Verdadero</em>',
+              texto: 'Verdadero',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: '<em>Falso</em>',
+              texto: 'Falso',
               esCorrecta: true,
             },
           ],
@@ -212,18 +212,18 @@ export default {
         {
           id: 9,
           texto:
-            '<em>CMMI nivel 1 (Inicial) se caracteriza por procesos estandarizados y medibles.</em>',
+            'CMMI nivel 1 (Inicial) se caracteriza por procesos estandarizados y medibles.',
           imagen: require('@/assets/actividad/img_4.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: '<em>Verdadero</em>',
+              texto: 'Verdadero',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: '<em>Falso</em>',
+              texto: 'Falso',
               esCorrecta: true,
             },
           ],
@@ -235,7 +235,7 @@ export default {
         {
           id: 10,
           texto:
-            '<em>PSP (Personal <em>software</em> Process) se utiliza para gestionar equipos grandes en proyectos ágiles.</em>',
+            'PSP (<em>Personal software Process</em>) se utiliza para gestionar equipos grandes en proyectos ágiles.',
           imagen: require('@/assets/actividad/img_5.png'),
           barajarRespuestas: true,
           opciones: [
@@ -258,7 +258,7 @@ export default {
         {
           id: 11,
           texto:
-            '<em>ISO/IEC 25024 define métricas para evaluar la calidad de datos en sistemas estructurados.</em>',
+            'ISO/IEC 25024 define métricas para evaluar la calidad de datos en sistemas estructurados.',
           imagen: require('@/assets/actividad/img_1.png'),
           barajarRespuestas: true,
           opciones: [
@@ -281,7 +281,7 @@ export default {
         {
           id: 12,
           texto:
-            '<em>La división 2504n de <em>SQuaRE</em> se enfoca en la gestión de requisitos de calidad.</em>',
+            'La división 2504n de <em>SQuaRE</em> se enfoca en la gestión de requisitos de calidad.',
           imagen: require('@/assets/actividad/img_2.png'),
           barajarRespuestas: true,
           opciones: [
@@ -304,7 +304,7 @@ export default {
         {
           id: 13,
           texto:
-            '<em>En el ejemplo de Adobe vs. Corel, la fiabilidad se midió mediante tasas de error en producción.</em>',
+            'En el ejemplo de Adobe vs. Corel, la fiabilidad se midió mediante tasas de error en producción.',
           imagen: require('@/assets/actividad/img_3.png'),
           barajarRespuestas: true,
           opciones: [
@@ -327,7 +327,7 @@ export default {
         {
           id: 14,
           texto:
-            '<em>La norma ISO/IEC 25040 solo aplica para evaluadores externos, no para desarrolladores.</em>',
+            'La norma ISO/IEC 25040 solo aplica para evaluadores externos, no para desarrolladores.',
           imagen: require('@/assets/actividad/img_4.png'),
           barajarRespuestas: true,
           opciones: [
@@ -350,7 +350,7 @@ export default {
         {
           id: 15,
           texto:
-            '<em>La documentación en <em>SQuaRE</em> incluye históricos de progreso pero no simulacros de uso.</em>',
+            'La documentación en <em>SQuaRE</em> incluye históricos de progreso pero no simulacros de uso.',
           imagen: require('@/assets/actividad/img_5.png'),
           barajarRespuestas: true,
           opciones: [
@@ -373,7 +373,7 @@ export default {
         {
           id: 16,
           texto:
-            '<em>ISO/IEC 25022 mide la eficacia del <em>software</em> en tareas específicas del usuario final.</em>',
+            'ISO/IEC 25022 mide la eficacia del <em>software</em> en tareas específicas del usuario final.',
           imagen: require('@/assets/actividad/img_1.png'),
           barajarRespuestas: true,
           opciones: [
@@ -396,7 +396,7 @@ export default {
         {
           id: 17,
           texto:
-            '<em>La integración de CMMI y <em>SQuaRE</em> permite evaluar tanto procesos organizacionales como calidad del producto.</em>',
+            'La integración de CMMI y <em>SQuaRE</em> permite evaluar tanto procesos organizacionales como calidad del producto.',
           imagen: require('@/assets/actividad/img_2.png'),
           barajarRespuestas: true,
           opciones: [
@@ -419,7 +419,7 @@ export default {
         {
           id: 18,
           texto:
-            'Las métricas de calidad interna (ISO/IEC 25024) evalúan la experiencia del usuario con el<em>software</em>.',
+            'Las métricas de calidad interna (ISO/IEC 25024) evalúan la experiencia del usuario con el <em>software</em>.',
           imagen: require('@/assets/actividad/img_3.png'),
           barajarRespuestas: true,
           opciones: [
@@ -442,7 +442,7 @@ export default {
         {
           id: 19,
           texto:
-            '<em>ISO/IEC 25021 proporciona fórmulas específicas para calcular métricas de mantenibilidad.</em>',
+            'ISO/IEC 25021 proporciona fórmulas específicas para calcular métricas de mantenibilidad.',
           imagen: require('@/assets/actividad/img_4.png'),
           barajarRespuestas: true,
           opciones: [
@@ -465,7 +465,7 @@ export default {
         {
           id: 20,
           texto:
-            '<em>El modelo TSP requiere que todos los miembros del equipo dominen PSP antes de implementarse.</em>',
+            'El modelo TSP requiere que todos los miembros del equipo dominen PSP antes de implementarse.',
           imagen: require('@/assets/actividad/img_5.png'),
           barajarRespuestas: true,
           opciones: [

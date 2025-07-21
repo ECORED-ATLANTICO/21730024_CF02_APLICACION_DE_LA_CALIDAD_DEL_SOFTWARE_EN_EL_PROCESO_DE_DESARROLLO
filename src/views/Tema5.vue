@@ -76,7 +76,7 @@
     separador
 
     #t_5_2.titulo-segundo.color-acento-contenido
-      .h2(data-aos="fade-right") 5.2 Requisitos documentales: políticas, simulacros, históricos de progreso
+      .h2(data-aos="fade-right") 5.2 Requisitos documentales: políticas, simulacros e históricos de progreso
     .mb-3
 
     .row.justify-content-center.align-items-center.mb-0

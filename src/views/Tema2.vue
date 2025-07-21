@@ -52,7 +52,7 @@
           h5 Figura 2. 
           span.text-dark(style="font-weight: normal;") Características de calidad de producto de datos (ISO/IEC 25012)
 
-        figure.mb-0
+        figure.mb-0(style="width:100%; height:auto; overflow:auto; ")
           img.mb-3(src="@/assets/curso/temas/tema2/img_5.svg", class="img-fluid")
         figcaption 
           span.text-dark(style="font-weight: normal;") Fuente.  

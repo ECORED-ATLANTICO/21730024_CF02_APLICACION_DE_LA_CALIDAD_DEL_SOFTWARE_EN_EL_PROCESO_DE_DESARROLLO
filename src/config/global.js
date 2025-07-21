@@ -278,34 +278,33 @@ export default {
   referencias: [
     {
       referencia:
-        '<b>Cordero, I.</b> (2017). Norma ISO 25000:2500 <em>SQuaRE</em>.',
+        'Cordero, I. (2017). <em>Norma ISO 25000:2500 <em>SQuaRE</em></em>.',
       link:
         'https://www.mindmeister.com/es/91369914/norma-iso-25000-2005-square-software-quality-requirements-and-evaluation',
     },
     {
       referencia:
-        '<b>Garzás, J.</b> (2017). Cómo estandarizar la evaluación de la calidad <em>software</em>... la ISO 9126 y la ISO 25000.',
+        'Garzás, J. (2017). <em>Cómo estandarizar la evaluación de la calidad <em>software</em>... la ISO 9126 y la ISO 25000.</em>',
       link: 'http://www.javiergarzas.com/2012/10/iso-9126-iso-25000-2.html',
     },
     {
       referencia:
-        '<b>Humphrey, W. S.</b> (2017). Introducción al proceso <em>software</em> personal.',
+        'Humphrey, W. S. (2017). <em>Introducción al proceso <em>software</em> personal.</em>',
       link:
         'https://www.uv.mx/personal/asumano/files/2010/07/psp.pdf?utm_source=chatgpt.com',
     },
     {
       referencia:
-        '<b>ISO 25000.com.</b> (2017). La familia de normas ISO/IEC 25000.',
+        'ISO 25000.com. (2017). <em>La familia de normas ISO/IEC 25000.</em>',
       link: 'http://iso25000.com/index.php/normas-iso-25000',
     },
     {
-      referencia:
-        '<b>Samuel, J.</b> (2017).  <em> TSP Team Software Proccess)</em>',
+      referencia: 'Samuel, J. (2017).  <em>TSP Team Software Proccess</em>',
       link: 'http://ingsistemascalidad.blogspot.com.co/2009/11/desarrollo.html',
     },
     {
       referencia:
-        '<b>Wagner, S.</b> (2017). <em>Software Product Quality Control.</em>',
+        'Wagner, S. (2017). <em>Software Product Quality Control.</em>',
       link:
         'https://books.google.com.co/books?id=cNy4BAAAQBAJ&pg=PA25&lpg=PA25&dq=(SPQM-RM)&source=bl&ots=RxUkbHtsqC&sig=jJ08WfcW2bVEPohAtJ1p_XR30n0&hl=es-',
     },
