@@ -341,7 +341,7 @@ export default {
           centro: 'Centro de Comercio y Servicios -Regional Atlántico',
         },
         {
-          nombre: 'Jair Coll',
+          nombre: 'Jair Enrique Coll Gallardo',
           cargo: 'Evaluadora instruccional',
           centro: 'Centro de Comercio y Servicios -Regional Atlántico',
         },
