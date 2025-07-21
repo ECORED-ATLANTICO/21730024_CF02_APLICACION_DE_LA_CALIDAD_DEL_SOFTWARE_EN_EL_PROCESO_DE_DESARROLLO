@@ -30,7 +30,7 @@
        span.text-dark(style="font-weight: normal;") Características y subcaracterísticas del modelo ISO/IEC 25010
       
     figure
-      img.mb-3(src="@/assets/curso/temas/tema2/img_3.svg", class="img-fluid")
+      img.mb-3(src="@/assets/curso/temas/tema2/img_3.svg", class="img-fluid" alt="") 
     figcaption 
       span.text-dark(style="font-weight: normal;") Fuente.  
       | SENA (2025).

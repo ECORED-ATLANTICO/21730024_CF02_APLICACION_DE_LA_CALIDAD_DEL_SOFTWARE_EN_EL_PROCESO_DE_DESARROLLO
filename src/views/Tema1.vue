@@ -15,7 +15,7 @@
     separador
 
     #t_1_1.titulo-segundo.color-acento-contenido
-      .h2(data-aos="fade-right") 1.1	Ventajas: estandarización, guías para requisitos, ajuste de normas existentes
+      .h2(data-aos="fade-right") 1.1	Ventajas: estandarización, guías para requisitos y ajuste de normas existentes
     .mb-3
     
     .row.justify-content-center.align-items-center.mb-0
@@ -28,7 +28,7 @@
     separador
 
     #t_1_2.titulo-segundo.color-acento-contenido
-      .h2(data-aos="fade-right") 1.2	Divisiones: 2501n (modelo), 2502n (medidas), 2503n (requisitos), 2504n (evaluación)
+      .h2(data-aos="fade-right") 1.2	Divisiones: 2501n (modelo), 2502n (medidas), 2503n (requisitos) y 2504n (evaluación)
     .mb-3
     .row.justify-content-center.align-items-center.mb-0
       p.mb-lg-3.order-2.order-lg-1.mb-3 El marco <em>SQuaRE</em> se organiza en diversas divisiones, cada una con un enfoque específico:
