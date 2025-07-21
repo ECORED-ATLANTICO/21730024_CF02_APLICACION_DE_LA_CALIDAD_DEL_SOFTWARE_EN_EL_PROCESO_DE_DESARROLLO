@@ -89,8 +89,8 @@
       span.text-dark(style="font-weight: normal;") Análisis de caso práctico
     
     figure
-      img.mb-3.d-none.d-md-block(src="@/assets/curso/temas/tema6/img_11.svg", class="img-fluid")
-      img.mb-3.d-md-none(src="@/assets/curso/temas/tema6/img_12.svg", class="img-fluid")
+      img.mb-3.d-none.d-md-block(src="@/assets/curso/temas/tema6/img_11.svg", class="img-fluid" alt="En la figura se analiza el caso del Ministerio de Salud del Perú y su evaluación frente a la calidad con la norma ISO/IEC 25000.")
+      img.mb-3.d-md-none(src="@/assets/curso/temas/tema6/img_12.svg", class="img-fluid" alt="En la figura se analiza el caso del Ministerio de Salud del Perú y su evaluación frente a la calidad con la norma ISO/IEC 25000.")
     
     figcaption 
       span.text-dark(style="font-weight: normal;") Fuente.  

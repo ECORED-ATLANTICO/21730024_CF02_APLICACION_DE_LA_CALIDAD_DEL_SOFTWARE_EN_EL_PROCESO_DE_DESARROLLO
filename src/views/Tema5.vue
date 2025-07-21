@@ -62,13 +62,13 @@
     .row.justify-content-center.align-items-center.mb-3
       .col-12.col-md-8.col-lg-4.mb-lg-0.mb-3
         figure
-          img(src="@/assets/curso/temas/tema5/img_8.svg", class="img-fluid")
+          img(src="@/assets/curso/temas/tema5/img_8.svg", class="img-fluid"  alt="Se describe la vista interna, externa y en uso de la calidad en SQuaRE.")
       .col-12.col-md-8.col-lg-4.mb-lg-0.mb-3
         figure
-          img(src="@/assets/curso/temas/tema5/img_9.svg", class="img-fluid")
+          img(src="@/assets/curso/temas/tema5/img_9.svg", class="img-fluid"  alt="Se describe la vista interna, externa y en uso de la calidad en SQuaRE.")
       .col-12.col-md-8.col-lg-4.mb-lg-0.mb-3
         figure
-          img(src="@/assets/curso/temas/tema5/img_10.svg", class="img-fluid")
+          img(src="@/assets/curso/temas/tema5/img_10.svg", class="img-fluid"  alt="Se describe la vista interna, externa y en uso de la calidad en SQuaRE.")
     figcaption 
       span.text-dark(style="font-weight: normal;") Fuente.  
       | SENA (2025).
