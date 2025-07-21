@@ -88,16 +88,10 @@
       h5 Figura 4.  
       span.text-dark(style="font-weight: normal;") Análisis de caso práctico
     
-    .row.justify-content-center.align-items-center.mb-3(style="background-image:@/assets/curso/temas/tema6/img_14.png")
-      .col-12.col-md-8.col-lg-4.mb-lg-0.mb-3
-        figure
-          img(src="@/assets/curso/temas/tema6/img_11.svg", class="img-fluid")
-      .col-12.col-md-8.col-lg-4.mb-lg-0.mb-3
-        figure
-          img(src="@/assets/curso/temas/tema6/img_12.svg", class="img-fluid")
-      .col-12.col-md-8.col-lg-4.mb-lg-0.mb-3
-        figure
-          img.mb-3(src="@/assets/curso/temas/tema6/img_13.svg", class="img-fluid")
+    figure
+      img.mb-3.d-none.d-md-block(src="@/assets/curso/temas/tema6/img_11.svg", class="img-fluid")
+      img.mb-3.d-md-none(src="@/assets/curso/temas/tema6/img_12.svg", class="img-fluid")
+    
     figcaption 
       span.text-dark(style="font-weight: normal;") Fuente.  
       | SENA (2025).
