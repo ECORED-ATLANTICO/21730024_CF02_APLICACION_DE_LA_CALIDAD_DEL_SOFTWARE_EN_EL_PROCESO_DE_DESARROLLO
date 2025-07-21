@@ -59,6 +59,7 @@
         figcaption 
           span.text-dark(style="font-weight: normal;") Fuente.  
           | SENA (2025).
+          
 </template>
 
 <script>
