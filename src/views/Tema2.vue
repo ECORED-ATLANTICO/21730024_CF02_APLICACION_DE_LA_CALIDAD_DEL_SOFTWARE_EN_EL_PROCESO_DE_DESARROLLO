@@ -30,8 +30,8 @@
        span.text-dark(style="font-weight: normal;") Características y subcaracterísticas del modelo ISO/IEC 25010
       
     figure
-      img.mb-3.d-none.d-md-block(src="@/assets/curso/temas/tema2/img_3.svg", class="img-fluid") 
-      img.mb-3.d-md-none(src="@/assets/curso/temas/tema2/img_3_1.svg", class="img-fluid") 
+      img.mb-3.d-none.d-md-block(src="@/assets/curso/temas/tema2/img_3.svg", class="img-fluid" alt="Se describen las características y subcaracterísticas de la calidad del producto del software: adecuación funcional, eficiencia de desempeño, compatibilidad, usabilidad, fiabilidad, seguridad, mantenibilidad y portabilidad.") 
+      img.mb-3.d-md-none(src="@/assets/curso/temas/tema2/img_3_1.svg", class="img-fluid" alt="Se describen las características y subcaracterísticas de la calidad del producto del software: adecuación funcional, eficiencia de desempeño, compatibilidad, usabilidad, fiabilidad, seguridad, mantenibilidad y portabilidad.") 
     figcaption 
       span.text-dark(style="font-weight: normal;") Fuente.  
       | SENA (2025).
@@ -54,7 +54,7 @@
           span.text-dark(style="font-weight: normal;") Características de calidad de producto de datos (ISO/IEC 25012)
         
         figure
-          img.mb-3(src="@/assets/curso/temas/tema2/img_5.svg", class="img-fluid")
+          img.mb-3(src="@/assets/curso/temas/tema2/img_5.svg", class="img-fluid" alt="Se ilustran las características de la calidad de producto de datos, tanto inherentes como los dependientes del sistema.")
         
         figcaption 
           span.text-dark(style="font-weight: normal;") Fuente.  
