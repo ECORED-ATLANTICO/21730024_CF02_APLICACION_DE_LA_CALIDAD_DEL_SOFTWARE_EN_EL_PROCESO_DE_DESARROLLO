@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 6
-      h1 Ejemplo práctico de aplicación
+      h1 Caso práctico de aplicación
     .bloque-texto-t.justify-content-center.align-items-center.mb-0
       .bloque-texto-t__img.mb-0
         img(src='@/assets/curso/temas/tema6/img_1.png', alt='Código de programación en pantalla, representación de  <em>software</em>')

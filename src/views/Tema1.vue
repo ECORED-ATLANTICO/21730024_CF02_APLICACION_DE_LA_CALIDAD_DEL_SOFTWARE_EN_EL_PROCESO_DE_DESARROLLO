@@ -53,7 +53,7 @@
             .tarjeta.p-2.rounded-3.d-flex
               .custom-slider__tarjeta.custom-slider__tarjeta--4
                 .custom-slider__title.color-secundario-20.mb-3.mb-lg-5 2504n – Evaluación de calidad
-                .custom-slider__contentEstablece los procedimientos y criterios para la valoración sistemática del <em>software</em>, orientados a la auditoría y mejora continua. Cada división se articula de manera que el conjunto normativo ofrezca una visión holística de la calidad del producto, facilitando su aplicación en diferentes escenarios de desarrollo.
+                .custom-slider__contentEstablece Establece los procedimientos y criterios para la valoración sistemática del <em>software</em>, orientados a la auditoría y mejora continua. Cada división se articula de manera que el conjunto normativo ofrezca una visión holística de la calidad del producto, facilitando su aplicación en diferentes escenarios de desarrollo.
 </template>
 
 <script>

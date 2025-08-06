@@ -3,7 +3,7 @@ export default {
     Name:
       'Medición, evaluación y aplicación práctica de la calidad de <em>software</em>',
     Description:
-      'Este componente formativo profundiza en la medición y evaluación de calidad de <em>software</em> mediante normas <I>ISO/IEC</I> 25000 (2501n, 2502n), modelos (<I>ISO/IEC</I> 25010, 25012) y métricas (internas, externas, uso). Incluye casos prácticos de aplicación para ilustrar implementación de estándares y procesos evaluativos, reforzando la gestión integral de calidad con enfoque <em>SQuaRE</em>.',
+      'Este componente formativo profundiza en la medición y evaluación de calidad de <em>software</em> mediante normas <I>ISO/IEC</I> 25000 (2501n, 2502n), modelos (<I>ISO/IEC</I> 25010, 25012) y métricas (internas, externas, uso). Incluye casos prácticos de aplicación para ilustrar la implementación de estándares y procesos evaluativos, reforzando la gestión integral de calidad con enfoque <em>SQuaRE</em>.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -43,13 +43,13 @@ export default {
           {
             numero: '1.1',
             titulo:
-              'Ventajas: estandarización, guías para requisitos, ajuste de normas existentes',
+              'Ventajas: estandarización, guías para requisitos y ajuste de normas existentes',
             hash: 't_1_1',
           },
           {
             numero: '1.2',
             titulo:
-              'Divisiones: 2501n (modelo), 2502n (medidas), 2503n (requisitos), 2504n (evaluación)',
+              'Divisiones: 2501n (modelo), 2502n (medidas), 2503n (requisitos) y 2504n (evaluación)',
             hash: 't_1_2',
           },
         ],
@@ -80,6 +80,34 @@ export default {
         numero: '3',
         titulo: 'Medidas de calidad (ISO/IEC 2502n)',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '3.1',
+            titulo:
+              'ISO/IEC 25020: modelo de referencia para medición con guía',
+            hash: 't_3_1',
+          },
+          {
+            numero: '3.2',
+            titulo: 'ISO/IEC 25021: medidas primitivas (QME)',
+            hash: 't_3_2',
+          },
+          {
+            numero: '3.3',
+            titulo: 'ISO/IEC 25022: métricas de calidad en uso',
+            hash: 't_3_3',
+          },
+          {
+            numero: '3.4',
+            titulo: 'ISO/IEC 25023: métricas de calidad externa',
+            hash: 't_3_4',
+          },
+          {
+            numero: '3.5',
+            titulo: 'ISO/IEC 25024: métricas de calidad interna',
+            hash: 't_3_5',
+          },
+        ],
       },
       {
         nombreRuta: 'tema4',
@@ -114,7 +142,7 @@ export default {
           {
             numero: '5.2',
             titulo:
-              'Requisitos documentales: políticas, simulacros, históricos de progreso',
+              'Requisitos documentales: políticas, simulacros e históricos de progreso',
             hash: 't_5_2',
           },
         ],
@@ -139,7 +167,7 @@ export default {
           {
             numero: '6.3',
             titulo:
-              'Métricas aplicadas (funcionalidad, fiabilidad, usabilidad, eficiencia)',
+              'Métricas aplicadas (funcionalidad, fiabilidad, usabilidad y eficiencia)',
             hash: 't_6_3',
           },
         ],
@@ -252,7 +280,7 @@ export default {
     {
       termino: 'PSP',
       significado:
-        'proceso <em>software</em> personal: método para mejorar la productividad individual en desarrollo de <em>software</em> mediante planificación y registro.',
+        ' Proceso <em>Software</em> Personal: método para mejorar la productividad individual en desarrollo de <em>software</em> mediante planificación y registro.',
     },
     {
       termino: 'QME',
@@ -289,7 +317,7 @@ export default {
     },
     {
       referencia:
-        'Humphrey, W. S. (2017). <em>Introducción al proceso <em>software</em> personal.</em>',
+        'Humphrey, W. S. (2017).<em>Introducción al PSP (Personal Software Process).<em>',
       link:
         'https://www.uv.mx/personal/asumano/files/2010/07/psp.pdf?utm_source=chatgpt.com',
     },
@@ -299,7 +327,7 @@ export default {
       link: 'http://iso25000.com/index.php/normas-iso-25000',
     },
     {
-      referencia: 'Samuel, J. (2017).  <em>TSP Team Software Proccess</em>',
+      referencia: 'Samuel, J. (2017).  <em>TSP (Team Software Proccess).</em>',
       link: 'http://ingsistemascalidad.blogspot.com.co/2009/11/desarrollo.html',
     },
     {
@@ -338,12 +366,12 @@ export default {
         {
           nombre: 'Heydy Cristina González García',
           cargo: 'Evaluadora instruccional',
-          centro: 'Centro de Comercio y Servicios -Regional Atlántico',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
           nombre: 'Jair Enrique Coll Gallardo',
           cargo: 'Evaluadora instruccional',
-          centro: 'Centro de Comercio y Servicios -Regional Atlántico',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
       ],
     },

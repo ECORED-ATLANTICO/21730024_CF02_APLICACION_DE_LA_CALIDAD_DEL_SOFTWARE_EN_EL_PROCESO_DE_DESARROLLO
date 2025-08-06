@@ -21,7 +21,7 @@
     separador
 
     #t_5_1.titulo-segundo.color-acento-contenido
-      .h2(data-aos="fade-right") 5.1 Vistas internas, externa y en uso
+      .h2(data-aos="fade-right") 5.1 Vistas interna, externa y en uso
     .mb-3
     .row.justify-content-center.align-items-center.mb-5
       .col-12.col-lg-8.order-2.order-lg-1.mb-lg-0.mb-5
@@ -43,7 +43,7 @@
             .col
               p
                 b Vista externa: 
-                | evalúa la experiencia del usuario final, abarcando la usabilidad, la satisfacción y la efectividad en la realización de tareas.
+                | considera el comportamiento del producto en condiciones de operación, analizando métricas de rendimiento, seguridad y fiabilidad.
         .crd--Horizontal.crd__secundario-5.mb-3
           .row.align-items-center
             .col-auto.position-relative
@@ -52,7 +52,7 @@
             .col
               p
                 b Vista en uso: 
-                | registros de pruebas realizadas, simulaciones de uso y resultados obtenidos que permitan verificar el cumplimiento de los requisitos.
+                | evalúa la experiencia del usuario final, abarcando la usabilidad, la satisfacción y la efectividad en la realización de tareas.
       .col-7.col-lg-4.order-1.order-lg-2.mb-lg-0.mb-5
         figure
           img(src="@/assets/curso/temas/tema5/img_7.png", class="img-fluid")

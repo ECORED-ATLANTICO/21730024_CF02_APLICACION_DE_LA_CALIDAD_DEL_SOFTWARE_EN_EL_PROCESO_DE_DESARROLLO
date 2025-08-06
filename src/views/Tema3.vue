@@ -37,7 +37,7 @@
         .row.justify-content-center.align-items-center
           .col-12.col-lg-6.order-2.order-lg-1.mb-0
             #t_3_3.h2 3.3 ISO/IEC 25022: métricas de calidad en uso 
-            p Esta norma específica un conjunto de métricas orientadas a evaluar la calidad del  <em>software</em> desde la perspectiva del usuario final. 
+            p Esta norma especifica un conjunto de métricas orientadas a evaluar la calidad del  <em>software</em> desde la perspectiva del usuario final. 
             p Se enfoca en aspectos como la eficacia, eficiencia, seguridad y satisfacción, estableciendo directrices para medir la experiencia real de uso y determinar el impacto del producto en el desempeño del usuario.
           .col-7.col-lg-4.order-1.order-lg-2.mb-lg-0.mb-3
             figure
