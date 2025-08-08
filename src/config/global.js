@@ -136,7 +136,7 @@ export default {
         subMenu: [
           {
             numero: '5.1',
-            titulo: 'Vistas internas, externa y en uso',
+            titulo: 'Vistas interna, externa y en uso',
             hash: 't_5_1',
           },
           {
@@ -317,7 +317,7 @@ export default {
     },
     {
       referencia:
-        'Humphrey, W. S. (2017).<em>Introducción al PSP (Personal Software Process).<em>',
+        'Humphrey, W. S. (2017). <em>Introducción al PSP (Personal Software Process).<em>',
       link:
         'https://www.uv.mx/personal/asumano/files/2010/07/psp.pdf?utm_source=chatgpt.com',
     },
