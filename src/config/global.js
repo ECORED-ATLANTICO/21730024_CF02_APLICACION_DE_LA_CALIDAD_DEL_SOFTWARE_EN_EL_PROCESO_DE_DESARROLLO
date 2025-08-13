@@ -70,7 +70,7 @@ export default {
           {
             numero: '2.2',
             titulo:
-              'ISO/IEC 25012: calidad de datos inherente y dependiente del sistema',
+              'ISO/IEC 25012: calidad de datos inherentes y dependientes del sistema',
             hash: 't_2_2',
           },
         ],

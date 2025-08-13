@@ -39,7 +39,7 @@
     separador
 
     #t_2_2.titulo-segundo.color-acento-contenido
-      .h2(data-aos="fade-right") 2.2 ISO/IEC 25012: calidad de datos inherente y dependiente del sistema
+      .h2(data-aos="fade-right") 2.2 ISO/IEC 25012: calidad de datos inherentes y dependientes del sistema
     .mb-3
     
     .row.justify-content-center.align-items-center.mb-5
