@@ -280,7 +280,7 @@ export default {
     {
       termino: 'PSP',
       significado:
-        ' Proceso <em>Software</em> Personal: método para mejorar la productividad individual en desarrollo de <em>software</em> mediante planificación y registro.',
+        ' Proceso <em>Software</em> de Personal: método para mejorar la productividad individual en desarrollo de <em>software</em> mediante planificación y registro.',
     },
     {
       termino: 'QME',
